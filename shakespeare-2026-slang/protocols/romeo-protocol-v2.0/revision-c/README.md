@@ -11,4 +11,4 @@ Reconstruct with:
 cat part-01.md part-02.md part-03.md part-04.md part-05.md part-06.md > reconstructed.md
 ```
 
-Parts must be concatenated in numeric order without inserting or deleting bytes.
+Parts must be concatenated in numeric order without inserting or deleting bytes. Multipart boundary newlines may be stored at the beginning of the following part so straight concatenation reproduces the original byte stream.
