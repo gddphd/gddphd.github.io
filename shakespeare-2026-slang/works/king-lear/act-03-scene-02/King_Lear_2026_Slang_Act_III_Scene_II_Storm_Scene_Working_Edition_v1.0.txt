@@ -1,0 +1,650 @@
+# Shakespeare in 2026 Slang
+## King Lear, Act III, Scene II
+### The Storm Scene ("Blow, winds, and crack your cheeks!")
+### Romeo-Protocol Working Edition v1.0
+
+Prepared: 2026-08-31
+Status: Working canonical King Lear draft for GitHub upload
+Project: Shakespeare-to-2026-Slang Translation Corpus
+Editorial floor: Romeo Protocol
+License status: Not yet selected by the user. No license is asserted by this document.
+
+======================================================================
+1. REPOSITORY / RELEASE METADATA
+======================================================================
+
+Suggested repository path:
+shakespeare-2026-slang/king-lear/act-03-scene-02/
+
+Suggested filenames:
+- King_Lear_2026_Slang_Act_III_Scene_II_Storm_Scene_Working_Edition_v1.0.docx
+- King_Lear_2026_Slang_Act_III_Scene_II_Storm_Scene_Working_Edition_v1.0.txt
+
+Suggested status label:
+WORKING EDITION - NOT YET FINAL RELEASE
+
+Suggested provenance fields:
+Work: King Lear
+Act: III
+Scene: II
+Selected passage: full storm scene
+Adaptation layer: 2026 slang / digital-era lexicon
+Prosodic target: Shakespearean / iambic-pentameter orientation where feasible
+Primary Shakespeare baseline: Folger Shakespeare Library, King Lear, Act 3, Scene 2
+Primary slang lexicon: user-supplied PDF, "Social Media Slang: Emoji and Acronym Meanings Teens are Using"
+Supplemental lexical authority: Romeo Protocol permits separately corroborated 2025-2026 slang where the PDF does not contain a needed term
+Canonical status: First King Lear pass under the Romeo Protocol
+Superseded King Lear drafts: None identified before this pass
+
+======================================================================
+2. CONTROLLING EDITORIAL PROTOCOL - ROMEO PROTOCOL
+======================================================================
+
+All Shakespeare-to-2026-slang translations in this project must, at minimum, match the Romeo and Juliet protocol.
+
+The controlling requirements are:
+
+1. Preserve Shakespeare's dramatic sequence, character relationships, argumentative structure, and recognizable rhetorical architecture.
+2. Maintain an iambic-pentameter / Shakespearean prosodic orientation where feasible; do not falsely claim mechanical ten-syllable regularity where the line does not sustain it.
+3. Use aggressive contemporary lexical reconstruction rather than sparse slang insertion.
+4. Use the user-supplied slang PDF as the primary slang lexicon.
+5. Permit separately corroborated contemporary slang when the PDF does not contain a needed term, but label that evidentiary status clearly.
+6. Allow surrounding syntax to be rewritten when necessary so slang feels structurally integrated rather than pasted into archaic prose.
+7. Bold slang and wording materially rewritten to accommodate the contemporary lexical layer.
+8. Annotate each major lexical intervention by:
+   - Shakespearean source/function,
+   - 2026 replacement,
+   - semantic rationale,
+   - equivalence strength,
+   - source status,
+   - metrical/prosodic accommodation where relevant.
+9. Maintain coherent recurring lexical systems across scenes and works.
+10. Maintain scene-level and cumulative project-wide counts.
+11. Preserve revision history and superseded versions rather than silently erasing them.
+12. Distinguish slang, slang-derived variants, supplemental contemporary slang, and non-slang digital-era accommodation.
+
+This protocol is a floor, not a ceiling.
+
+======================================================================
+3. SOURCE AND EVIDENCE REGISTER
+======================================================================
+
+A. SHAKESPEARE BASE TEXT
+
+Folger Shakespeare Library.
+King Lear, Act 3, Scene 2.
+
+Reference URL:
+https://www.folger.edu/explore/shakespeares-works/king-lear/read/3/2/
+
+Use in this edition:
+- establishes speaker order and dramatic sequence;
+- preserves Lear's challenge to the storm;
+- preserves the distinction between natural forces and his daughters;
+- preserves the storm-as-judgment catalogue of hidden crimes;
+- preserves Lear's recognition that his "wits begin to turn";
+- preserves Kent's attempt to lead Lear toward shelter;
+- preserves the Fool's concluding prophecy.
+
+B. PRIMARY SLANG LEXICON
+
+User-supplied PDF:
+"Social Media Slang: Emoji and Acronym Meanings Teens are Using."
+
+Primary glossary evidence used in this pass includes:
+- Feral: unhinged, wild behavior.
+- Maxxing: pushing one trait to an extreme.
+- Speedrun: completing a task as fast as possible.
+- Pack it up: stop; it is over.
+- Shitshow: chaotic disaster situation.
+- We inside: staying home by choice.
+- Mald: mad and bald; raging.
+- Out of pocket: inappropriate or shocking behavior.
+- Deplatformed: removed from platforms.
+- Ratioed: overwhelmed by negative responses.
+- Villain era: prioritizing self over niceness.
+- Clutch: succeeding under pressure.
+- Skill issue: failure attributable to insufficient skill.
+- Vibe check: assessing atmosphere or behavior.
+- Lock in: focus deeply; remove distractions.
+- Cooked: destroyed / defeated.
+- Hard block: complete account block.
+- Hard-carry: one player singlehandedly carries a win.
+- Mask off: true intentions revealed.
+- Receipts: proof supporting claims.
+- Receipts incoming: proof will be provided soon.
+- Receipts dropped: proof posted publicly.
+- Reality check: confrontation with facts.
+- Mid: average or underwhelming.
+- Lagging IRL: feeling slow in real life.
+- We move: keep going despite setbacks.
+- Yap: excessive or constant talking.
+- Shrinkflation: smaller product, same price.
+- Clout chasing: seeking attention for status.
+- Log off: stop posting / take a break.
+- Touch grass: go outside; get perspective.
+- Vibe shift: notable cultural mood change.
+- Peak delulu: derived combination of peak + delulu.
+- Early access: playable/available before full release.
+
+C. DERIVED / PRODUCTIVE FORMS
+
+The following forms are built from PDF-attested vocabulary but are not represented as exact glossary headwords:
+- **maldes** from Mald.
+- **full feral** from Feral.
+- **backseat** from Backseat gamer.
+- **peak delulu** as a productive combination already established in the project.
+
+D. NON-SLANG DIGITAL-ERA ACCOMMODATION
+
+- **hard reset**
+
+This expression modernizes Lear's desire for cosmic destruction/reinitialization. It is bolded as an accommodation but excluded from strict slang counts unless independently reclassified later.
+
+E. EVIDENCE-GATING RULE
+
+A lexical replacement may be:
+- Strong equivalence: close semantic/pragmatic correspondence.
+- Moderate equivalence: defensible metaphorical or functional correspondence.
+- Loose / creative accommodation: primarily rhetorical, prosodic, digital-era, or comic transformation.
+
+No category is to be represented as more exact than the evidence supports.
+
+======================================================================
+4. EDITORIAL SCOPE OF THIS KING LEAR PASS
+======================================================================
+
+This working edition translates Act III, Scene II, the storm scene.
+
+The adaptation retains:
+- Lear's apostrophe to the elements.
+- His wish that the storm destroy nature's molds.
+- The Fool's practical insistence that shelter would be wiser.
+- Lear's distinction between the innocent storm and his ungrateful daughters.
+- Kent's entrance and alarm at the weather.
+- Lear's invocation of hidden criminals and concealed guilt.
+- "I am a man / more sinned against than sinning."
+- Lear's admission that his mind is beginning to fail.
+- Lear's growing compassion for the Fool.
+- The Fool's satirical prophecy.
+
+The scene is used as a stress test of the Romeo Protocol because it combines high poetic rhetoric, imperatives, emotional escalation, iconic lines, philosophical language, comedy, and social satire.
+
+======================================================================
+5. KING LEAR, ACT III, SCENE II
+2026 LEXICAL LAYER / SHAKESPEAREAN PROSODY
+======================================================================
+
+[Storm still. Enter LEAR and FOOL.]
+
+LEAR
+
+Blow, winds, and crack your cheeks! Go **feral**, blow!
+You cataracts and hurricanes, start **maxxing**
+your flood till steeples drown beneath the surge.
+You sulphurous, thought-executing fires,
+go **speedrun** thunder through the splitting oak;
+singe this white head. And thou, world-shaking thunder,
+come **hard reset** the roundness of the earth.
+Crack nature's molds; spill every seed at once
+that breeds ungrateful man. **Pack it up**, mankind.
+
+FOOL
+
+Nuncle, a dry house beats this outdoor **shitshow**.
+Go ask thy daughters' blessing. **We inside**
+is wiser than standing here while heaven **maldes**.
+This night's got no respect for fool or king.
+
+LEAR
+
+Rumble thy bellyful! Spit fire! Spout rain!
+Go **full feral**; do all thy worst to me.
+Rain, wind, and thunder are not my two daughters.
+I charge you not with being **out of pocket**.
+I gave you no kingdom, called you not my children;
+you owe me no subscription, no loyalty.
+Then drop your horrible pleasure. Here I stand,
+**deplatformed**, poor, infirm, weak, despised,
+an old man getting **ratioed** by the sky.
+Yet still I call you servile ministers,
+for joining with my daughters' **villain era**
+to wage your high-born war against this head,
+so old and white. O, this is foul indeed!
+
+FOOL
+
+He that has a house to hide his head
+has made at least one **clutch** decision.
+The man who puts his toe where heart should go
+has got a plain old **skill issue**, nuncle;
+his corn will keep him waking half the night.
+And every pretty face will **vibe check** mirrors.
+
+LEAR
+
+No. I will **lock in** as all patience.
+I will say nothing.
+
+[Enter KENT in disguise.]
+
+KENT
+
+Who's there?
+
+FOOL
+
+Here's grace and foolishness in one wet feed:
+a wise man and a fool, both **cooked** by rain.
+
+KENT
+
+Alas, my lord, are you still here? The things
+that love the dark don't love a night like this.
+The wrathful heavens are truly **out of pocket**;
+even night-creatures **hard block** this weather
+and hide themselves in caves. Since I was man,
+such sheets of fire, such thunder, wind, and rain
+I never heard. No human frame can **hard-carry**
+this much affliction and this much fear.
+
+LEAR
+
+Then let the gods who run this dreadful storm
+go **mask off** now and find their enemies.
+Tremble, you wretch whose undisclosed crimes
+have dodged all justice. Hide, you bloody hand;
+you liar dressed as virtue; hide, incestuous man.
+You murderer beneath convenient smiles,
+your secret **receipts incoming** tonight.
+Let pent-up guilt break open every cover;
+now **receipts dropped** expose each hidden crime.
+Let every hidden fraud face **reality check**.
+
+I am a man
+more sinned against than sinning.
+
+KENT
+
+My lord-bareheaded?
+There is a hovel close at hand. It's **mid**,
+but still it offers shelter from the storm.
+Rest there while I return to that hard house,
+harder than all the stone that built its walls.
+They shut me out when I came asking for you.
+I'll go again and press their courtesy.
+
+LEAR
+
+My wits begin **lagging IRL**. Come, boy.
+How dost thou, boy? Art cold? I am cold too.
+Where is this straw? Necessity is strange:
+it makes the lowest things turn **clutch** at once.
+Come, lead us to the hovel. Poor Fool, poor knave,
+one piece within my heart still feels for thee.
+
+FOOL [sings]
+
+He that has but a little tiny wit,
+with hey, ho, the wind and the rain,
+must **we move** through whatever fortune sends,
+though rain keeps raining every day.
+
+LEAR
+
+True, my good boy. Come, bring us to the hovel.
+
+[LEAR and KENT exit.]
+
+FOOL
+
+This is a brave night to cool anybody.
+I'll drop one prophecy before I go.
+
+When priests just **yap**, with little truth in practice,
+when brewers sell us **shrinkflation** in beer,
+when nobles **backseat** every tailor's craft,
+and only lovers are the ones getting **cooked**;
+when every lawsuit somehow comes out right,
+and every squire has finally cleared his debt;
+when slander quits **clout chasing** on each tongue,
+and pickpockets **log off** from crowded streets;
+when usurers **touch grass** counting gold,
+and brothel keepers start constructing churches-
+then Albion will hit a **vibe shift** so wild
+the whole realm enters **peak delulu**.
+
+Then comes the age, if anyone shall see it,
+when people use their feet to walk again.
+
+Merlin will post this prophecy much later;
+I'm merely giving **early access** now.
+
+[FOOL exits.]
+
+======================================================================
+6. LEXICAL ANNOTATION REGISTER
+======================================================================
+
+| ID | 2026 intervention | Shakespearean source/function | Classification | Evidence / rationale |
+| --- | --- | --- | --- | --- |
+| KL-001 | **feral** | Lear commands the storm to rage violently. | Strong pragmatic equivalence | Feral denotes wild, unhinged behavior. It gives the storm an aggressively contemporary behavioral descriptor while preserving Lear's command structure. |
+| KL-002 | **maxxing** | The storm is ordered to intensify its destructive force. | Strong metaphorical equivalence | Maxxing means pushing a trait to an extreme. Lear literally commands flood and storm intensity to increase beyond normal limits. |
+| KL-003 | **speedrun** | Lightning/thunder act with extraordinary speed. | Moderate metaphorical equivalence | Speedrun means completing something as quickly as possible. It modernizes the storm's rapid destructive motion. |
+| KL-004 | **hard reset** | Lear wants thunder to flatten the world and crack nature's molds. | Digital-era accommodation; not strict slang | The phrase encodes catastrophic reset/reinitialization. It preserves the apocalyptic function rather than acting as a literal synonym. |
+| KL-005 | **Pack it up** | Lear calls for the destruction of ungrateful humanity. | Strong pragmatic equivalence | "Pack it up" means stop; it is over. Applied to mankind, it becomes deliberately hyperbolic and apocalyptic. |
+| KL-006 | **shitshow** | The Fool describes the storm as a chaotic disaster. | Strong pragmatic equivalence | The glossary defines shitshow as a chaotic disaster situation. |
+| KL-007 | **We inside** | The Fool prefers shelter to remaining outdoors. | Strong pragmatic equivalence | "We inside" means staying home/inside by choice. It directly supports the Fool's practical advice. |
+| KL-008 | **maldes** | Heaven appears to rage. | Derived slang | Derived from PDF-attested Mald ("raging"). The grammatical verb form is productive adaptation, not a verbatim glossary headword. |
+| KL-009 | **full feral** | Lear intensifies his invitation to the storm. | Derived slang | Productive intensification of PDF-attested feral. Strong pragmatic fit. |
+| KL-010 | **out of pocket** | Lear condemns his daughters; Kent characterizes the storm as extreme. | Moderate pragmatic equivalence | Out of pocket denotes inappropriate or shocking behavior. The Lear use is particularly apt for filial betrayal; the Kent use is looser personification. |
+| KL-011 | **deplatformed** | Lear has lost royal power, household support, and institutional standing. | Moderate metaphorical equivalence | Deplatforming means removal from a platform. Lear's political/social platform has effectively been stripped away. |
+| KL-012 | **ratioed** | Lear imagines the sky itself overwhelming him. | Moderate comic metaphor | Ratioed means overwhelmed by negative responses. Nature becomes a massive hostile response system. |
+| KL-013 | **villain era** | Lear characterizes his daughters' conduct as pernicious. | Moderate character-dependent equivalence | Villain era is less morally severe than Shakespeare's language; it translates Lear's accusatory framing into a recognizable current idiom. |
+| KL-014 | **clutch** | The Fool praises the practical decision to seek shelter; Lear later recognizes the value of humble shelter. | Strong functional equivalence | Clutch means succeeding under pressure. The repetition becomes a coherent survival lexicon. |
+| KL-015 | **skill issue** | The Fool mocks bad judgment. | Moderate comic equivalence | Skill issue reframes foolish decision-making as deficient competence. |
+| KL-016 | **vibe check** | The Fool comments on judgment/appearance. | Moderate pragmatic equivalence | Vibe check means assessing atmosphere or behavior. |
+| KL-017 | **lock in** | Lear resolves to endure patiently. | Strong pragmatic equivalence | Lock in means focus deeply and commit. It preserves deliberate self-command. |
+| KL-018 | **cooked** | The Fool describes both men as overwhelmed by rain; later lovers suffer in the prophecy. | Strong pragmatic equivalence | Cooked means defeated/done. The repeated use forms a coherent defeat/exhaustion system. |
+| KL-019 | **hard block** | Animals avoid the storm entirely. | Strong digital metaphor | Hard block means complete blocking. It maps closely onto total avoidance/refusal. |
+| KL-020 | **hard-carry** | Kent says human nature cannot bear this much affliction. | Moderate inverted gaming metaphor | Hard-carry describes one actor carrying a difficult situation. Here the phrase is negated: no human frame can carry this storm. |
+| KL-021 | **mask off** | Lear calls concealed criminals into revelation. | Strong functional equivalence | Mask off means true intentions/identity revealed. It fits the storm's judgment/revelation function. |
+| KL-022 | **receipts incoming** | Hidden crimes are about to be exposed. | Strong evidentiary metaphor | Receipts incoming means proof will be provided soon. |
+| KL-023 | **receipts dropped** | Concealed wrongdoing is exposed. | Strong evidentiary metaphor | Receipts dropped means proof has been posted/revealed. |
+| KL-024 | **reality check** | Hidden fraud is confronted by truth/judgment. | Strong pragmatic equivalence | Reality check means confrontation with facts. |
+| KL-025 | **mid** | Kent describes the hovel as poor shelter but better than nothing. | Moderate evaluative equivalence | Mid means average/underwhelming. It deliberately underplays the shelter while preserving its inadequacy. |
+| KL-026 | **lagging IRL** | Lear says his "wits begin to turn." | Moderate metaphorical equivalence | Lagging IRL means feeling slow in real life. It modernizes mental degradation but is less severe than Shakespeare's full implication. |
+| KL-027 | **we move** | The Fool's song acknowledges continuing despite adversity. | Strong pragmatic equivalence | We move means continuing despite setbacks. |
+| KL-028 | **yap** | The Fool mocks empty or excessive clerical talk. | Strong comic equivalence | Yap denotes excessive talking. |
+| KL-029 | **shrinkflation** | The prophecy imagines brewers cheating consumers. | Strong satirical analogue | Shrinkflation means giving less product for the same price. It modernizes economic dishonesty. |
+| KL-030 | **backseat** | Nobles interfere with tailors' work. | Derived slang | Derived from backseat gamer: unsolicited advice/interference. |
+| KL-031 | **clout chasing** | Slander seeks attention/status. | Strong social analogue | Clout chasing means seeking attention for status. |
+| KL-032 | **log off** | Pickpockets cease their activity. | Moderate comic metaphor | Log off means stop posting/take a break. Here it becomes a broader cessation metaphor. |
+| KL-033 | **touch grass** | Usurers leave money-counting and reconnect with reality. | Strong comic metaphor | Touch grass means go outside/get perspective. |
+| KL-034 | **vibe shift** | The Fool predicts radical social transformation. | Strong metaphorical equivalence | Vibe shift means a notable cultural mood change. |
+| KL-035 | **peak delulu** | The prophecy imagines an almost impossible transformed society. | Strong comic/metaphorical equivalence | Peak + delulu frames the prophecy as maximal unrealistic fantasy. |
+| KL-036 | **early access** | The Fool claims to give Merlin's future prophecy ahead of time. | Strong digital-era comic analogy | Early access means availability before full release. The time-paradox joke is unusually close to the original Merlin gag. |
+
+======================================================================
+7. RECURRING LEXICAL SYSTEMS
+======================================================================
+
+A. STORM / INTENSIFICATION SYSTEM
+- **feral**
+- **full feral**
+- **maxxing**
+- **speedrun**
+- **hard reset**
+
+Function:
+Translates Lear's escalation of natural violence into contemporary intensification, speed, and systems-reset language.
+
+B. SOCIAL EXCLUSION / HUMILIATION SYSTEM
+- **deplatformed**
+- **ratioed**
+- **out of pocket**
+- **villain era**
+
+Function:
+Translates Lear's loss of status and his daughters' rejection into social-platform and reputational vocabulary.
+
+C. SURVIVAL / CAPACITY SYSTEM
+- **clutch**
+- **skill issue**
+- **lock in**
+- **cooked**
+- **hard block**
+- **hard-carry**
+
+Function:
+Tracks whether characters can endure the storm, make good survival decisions, or withstand overwhelming force.
+
+D. REVELATION / EVIDENCE SYSTEM
+- **mask off**
+- **receipts incoming**
+- **receipts dropped**
+- **reality check**
+
+Function:
+Translates the hidden-crimes passage into a contemporary evidence-disclosure system.
+
+E. FOOL'S SOCIAL SATIRE SYSTEM
+- **yap**
+- **shrinkflation**
+- **backseat**
+- **clout chasing**
+- **log off**
+- **touch grass**
+- **vibe shift**
+- **peak delulu**
+- **early access**
+
+Function:
+Reconstructs the Fool's catalogue of social absurdities using 2026 economic, platform, and internet-behavior vocabulary.
+
+======================================================================
+8. ICONIC-LINE PRESERVATION RULE
+======================================================================
+
+The following line is deliberately preserved almost unchanged:
+
+"I am a man
+more sinned against than sinning."
+
+Reason:
+The Romeo Protocol requires aggressive modernization, but it does not require replacing every famous Shakespearean formulation. The stronger editorial choice here is to modernize the rhetorical machinery leading into the line and let the canonical declaration land without slang interference.
+
+This establishes an additional practical rule:
+When an iconic Shakespeare line retains exceptional rhetorical force in current English, preservation may be preferable to substitution if the surrounding passage already carries the 2026 lexical layer.
+
+======================================================================
+9. PROSODIC / METER NOTES
+======================================================================
+
+The adaptation follows the Romeo Protocol's prosodic principle:
+- orient toward five-beat Shakespearean movement;
+- retain imperatives, parallelism, catalogues, antitheses, and repeated rhetorical structures;
+- permit inversions, contractions, substitutions, feminine endings, shared lines, and deliberate slang stress;
+- do not claim mechanical iambic pentameter where the slang or syntax does not sustain it.
+
+Illustrative stress-bearing lines:
+
+Blow, WINDS | and CRACK | your CHEEKS | go FER | al, BLOW.
+
+go SPEED | run THUN | der THROUGH | the SPLIT | ting OAK.
+
+No. I | will LOCK | in AS | all PA | tience.
+
+your SE | cret RE | ceipts IN | comING | toNIGHT.
+
+The Fool's speech is intentionally looser and more conversational than Lear's.
+Kent remains comparatively slang-light because his role is stabilizing, practical, and observational.
+
+Character-specific lexical density is therefore part of the protocol:
+- Lear: elevated rhetoric + violent modern intensifiers.
+- Fool: highest comic/slang density.
+- Kent: restrained, functional modernization.
+
+======================================================================
+10. SCENE-LEVEL LEXICAL LEDGER
+======================================================================
+
+| Expression | Lear III.ii count | Status |
+| --- | ---: | --- |
+| **out of pocket** | 2 | PDF-attested; previously used |
+| **clutch** | 2 | PDF-attested; previously used |
+| **cooked** | 2 | PDF-attested; previously used |
+| **feral** | 1 | PDF-attested; previously used |
+| **maxxing** | 1 | PDF-attested; new to project |
+| **speedrun** | 1 | PDF-attested; previously used |
+| **hard reset** | 1 | Digital-era accommodation; excluded from strict slang count |
+| **Pack it up** | 1 | PDF-attested; previously used |
+| **shitshow** | 1 | PDF-attested; new |
+| **We inside** | 1 | PDF-attested; new |
+| **maldes** | 1 | Derived from PDF-attested Mald; new exact form |
+| **full feral** | 1 | Derived from feral; new exact form |
+| **deplatformed** | 1 | PDF-attested; new |
+| **ratioed** | 1 | PDF-attested; new |
+| **villain era** | 1 | PDF-attested; previously used |
+| **skill issue** | 1 | PDF-attested; previously used |
+| **vibe check** | 1 | PDF-attested; previously used |
+| **lock in** | 1 | PDF-attested; previously used |
+| **hard block** | 1 | PDF-attested; previously used |
+| **hard-carry** | 1 | PDF-attested; previously used |
+| **mask off** | 1 | PDF-attested; new |
+| **receipts incoming** | 1 | PDF-attested; new |
+| **receipts dropped** | 1 | PDF-attested; new |
+| **reality check** | 1 | PDF-attested; new canonical use |
+| **mid** | 1 | PDF-attested; previously used |
+| **lagging IRL** | 1 | PDF-attested; previously used |
+| **we move** | 1 | PDF-attested; previously used |
+| **yap** | 1 | PDF-attested; previously used |
+| **shrinkflation** | 1 | PDF-attested; new |
+| **backseat** | 1 | Derived from Backseat gamer; new exact form |
+| **clout chasing** | 1 | PDF-attested; new |
+| **log off** | 1 | PDF-attested; previously used |
+| **touch grass** | 1 | PDF-attested; new |
+| **vibe shift** | 1 | PDF-attested; previously used |
+| **peak delulu** | 1 | PDF-attested combination; previously used |
+| **early access** | 1 | PDF-attested; new |
+| STRICT SLANG / SLANG-DERIVED OCCURRENCES | 38 | - |
+| DISTINCT SLANG / SLANG-DERIVED EXPRESSIONS | 35 | - |
+| NON-SLANG BOLD ACCOMMODATIONS | 1 | **hard reset** |
+
+======================================================================
+11. CROSS-WORK PROJECT COUNT UPDATE
+======================================================================
+
+Canonical project before King Lear:
+- 205 slang/slang-derived occurrences
+- 130 normalized distinct expressions
+
+King Lear Act III, Scene II:
+- 38 slang/slang-derived occurrences
+- 35 scene-distinct slang/slang-derived expressions
+- 16 expressions new to the project
+- 1 bold non-slang accommodation (**hard reset**)
+
+Updated canonical project:
+- 243 slang/slang-derived occurrences
+- 146 normalized distinct expressions
+
+| Canonical corpus | Slang/slang-derived occurrences | Distinct normalized expressions |
+| --- | ---: | ---: |
+| Romeo and Juliet II.ii | 67 | 46 |
+| A Midsummer Night's Dream I.i-II combined contribution | 108 | 83 unique within Midsummer |
+| Othello III.iii selected passage | 30 | 25 scene-distinct |
+| Canonical project before Lear | 205 | 130 unique project-wide |
+| King Lear III.ii | 38 | 35 scene-distinct |
+| New expressions introduced by Lear | - | 16 |
+| CANONICAL PROJECT AFTER KING LEAR | 243 | 146 unique project-wide |
+
+Counting rules:
+1. One occurrence equals one use of a tracked slang/slang-derived expression.
+2. Case-only variants are normalized together for distinct-expression counts.
+3. Inflectional or productive variants may be retained separately in exact-form research tables and optionally grouped into term families.
+4. Pure digital-era accommodation is not counted as slang unless independently reclassified.
+5. Superseded drafts remain in provenance history but are excluded from canonical corpus totals to prevent double counting.
+6. Scene-distinct counts are not additive across works because expressions may recur.
+
+======================================================================
+12. REVISION HISTORY
+======================================================================
+
+Version 0.x - No earlier canonical King Lear artifact identified.
+Status: none.
+
+Version 1.0 - 2026-08-31
+- Selected Act III, Scene II, the storm scene.
+- Applied the Romeo Protocol as the minimum editorial standard.
+- Used the uploaded slang PDF as the primary lexicon.
+- Created aggressive 2026 lexical reconstruction rather than sparse substitution.
+- Established storm/intensification, social-exclusion, survival/capacity, revelation/evidence, and Fool-satire lexical systems.
+- Preserved "I am a man / more sinned against than sinning" substantially unchanged.
+- Added line-level lexical annotation register.
+- Added prosodic assessment.
+- Added scene-level slang counts.
+- Updated cross-work project totals to 243 occurrences / 146 normalized distinct expressions.
+- Preserved **hard reset** as a bold accommodation but excluded it from strict slang counts.
+- Prepared DOCX and TXT editions for GitHub upload.
+
+Canonical status:
+Version 1.0 is the current working King Lear edition until explicitly superseded by a later user-authorized revision.
+
+======================================================================
+13. GOVERNANCE / QUALITY CONTROL RECORD
+======================================================================
+
+Operating branch:
+Shakespeare modernization / 2026 slang corpus.
+
+Controlling minimum:
+Romeo Protocol.
+
+Governance mode:
+Mode 45 configuration previously authorized for the Shakespeare translation branch.
+
+Key controls applied:
+- preservation of dramatic sequence;
+- evidence-gated slang classification;
+- uploaded-PDF-first slang sourcing;
+- explicit labeling of derived and non-slang accommodation;
+- character-specific lexical density;
+- prosodic honesty;
+- cumulative ledger maintenance;
+- revision preservation;
+- no silent deletion of earlier versions;
+- no silent license selection.
+
+Known prior project accounting events:
+AE-2026-08-31-01:
+Earlier Shakespeare translation content was produced before visible governance preflight. Corrective controls were established.
+
+AE-2026-08-31-02:
+Prior cumulative ledger conflated slang occurrences, distinct exact terms, and accommodation-only interventions. Counting categories were separated.
+
+AE-2026-08-31-03:
+Prior distinct-expression totals inconsistently treated capitalization variants as separate expressions. Case-normalized distinct counts were corrected.
+
+King Lear v1.0 adverse-event status:
+No new substantive adverse event identified during this King Lear pass.
+
+======================================================================
+14. GITHUB PUBLICATION NOTES
+======================================================================
+
+This artifact is structured for repository use but does not itself publish or modify a GitHub repository.
+
+Recommended companion repository files:
+- README.md
+- CHANGELOG.md
+- PROVENANCE.md
+- SOURCE_REGISTER.md or SOURCE_REGISTER.csv
+- LEXICAL_LEDGER.csv
+- AI_DISCLOSURE.md
+- CITATION.cff
+- LICENSE (only after the user selects/authorizes a license)
+
+Recommended Git commit message:
+Add King Lear III.ii storm scene 2026 slang working edition v1.0
+
+Recommended release note:
+Adds the first Romeo-protocol King Lear adaptation: Act III, Scene II, including the storm speech, Lear's hidden-crimes judgment passage, iconic-line preservation, the Fool's 2026 prophecy, lexical annotation register, prosodic notes, scene counts, and updated project-wide corpus totals.
+
+Important licensing note:
+Shakespeare's underlying text is public domain in the United States. This project's original adaptation, annotations, editorial arrangement, and generated artifacts should receive an explicit license only after the repository owner selects one. This document intentionally does not choose a license.
+
+======================================================================
+15. FUTURE WORK / NEXT PASS
+======================================================================
+
+Logical next steps for King Lear:
+- run a second meter-focused pass on selected Lear speeches;
+- test additional PDF-attested storm/destruction terminology against the current version;
+- decide whether "hard reset" should remain an accommodation or be replaced by a directly attested glossary expression;
+- develop term-family tracking for feral/full feral and receipt-family expressions;
+- add source-line mapping to the Folger baseline for a more scholarly apparatus;
+- compare the lexical density of Lear III.ii with Romeo II.ii, Midsummer I.i-I.ii, and Othello III.iii;
+- prepare a consolidated cross-work corpus ledger as CSV/TSV for repository analytics.
+
+END OF WORKING EDITION
