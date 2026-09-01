@@ -1,0 +1,161 @@
+Romeo Protocol v2.0
+Nuance-Fidelity Extension
+Cumulative Draft Candidate | 2026-08-31
+1. Version-Preservation Statement
+Romeo Protocol v2.0 is built cumulatively from the complete previously documented Romeo Protocol baseline. The twelve controlling requirements below are preserved in substance and wording. The Nuance-Fidelity Extension adds new requirements after that baseline rather than silently altering or deleting it.
+No prior rule is deprecated by this draft unless a later user-authorized version explicitly identifies the rule and the authorized change.
+2. Preserved Romeo Protocol Baseline
+All Shakespeare-to-2026-slang translations in this project must, at minimum, match the Romeo and Juliet protocol.
+The controlling requirements are:
+1. Preserve Shakespeare's dramatic sequence, character relationships, argumentative structure, and recognizable rhetorical architecture.
+2. Maintain an iambic-pentameter / Shakespearean prosodic orientation where feasible; do not falsely claim mechanical ten-syllable regularity where a line does not sustain it.
+3. Use aggressive contemporary lexical reconstruction rather than sparse slang insertion.
+4. Use the user-supplied slang PDF as the primary slang lexicon.
+5. Permit separately corroborated contemporary slang when the PDF does not contain a needed term, but label that evidentiary status clearly.
+6. Allow surrounding syntax to be rewritten when necessary so slang feels structurally integrated rather than pasted into archaic prose.
+7. Bold slang and wording materially rewritten to accommodate the contemporary lexical layer.
+8. Annotate each major lexical intervention by:
+Shakespearean source/function,
+2026 replacement,
+semantic rationale,
+equivalence strength,
+source status,
+metrical/prosodic accommodation where relevant.
+9. Maintain coherent recurring lexical systems across scenes and works.
+10. Maintain scene-level and cumulative project-wide counts.
+11. Preserve revision history and superseded versions rather than silently erasing them.
+12. Distinguish slang, slang-derived variants, supplemental contemporary slang, and non-slang digital-era accommodation.
+This protocol is a floor, not a ceiling.
+3. Governing Objective of v2.0
+The v2.0 objective is:
+Reconstruct Shakespeare's dramatic, rhetorical, emotional, figurative, and prosodic functions inside a defensible contemporary linguistic system, using contemporary slang as one instrument rather than the sole objective.
+The earlier objective of translating Shakespeare into 2026 slang while preserving Shakespearean meter remains valid, but v2.0 clarifies that lexical replacement is subordinate to dramatic-function fidelity.
+4. Nuance Fidelity Stack
+Before rewriting a significant line, speech, exchange, or rhetorical unit, evaluate the following layers. A translation may modernize any layer only if the resulting wording preserves or explicitly documents changes to the others.
+5. Speech-Act Classification Requirement
+For significant dialogue, identify at least:
+Literal statement.
+Operative speech act.
+Apparent intention.
+Actual or concealed intention, when supported by the play.
+Dramatic function.
+Where the concealed intention is unavailable to the speaking character but available to the audience, the translation must preserve that asymmetry rather than inserting modern terminology that gives the speaker forbidden knowledge.
+6. Ambiguity Preservation Rule
+If Shakespeare's wording permits multiple plausible meanings, the translation should preserve equivalent ambiguity whenever reasonably possible.
+Annotations for materially ambiguous lines must record one of the following:
+Original ambiguity A/B; modern version preserves A/B.
+Original ambiguity A/B; modern version preserves A and partially preserves B.
+Original ambiguity A/B; modern version narrows to A; loss recorded.
+Original ambiguity cannot be reproduced in contemporary wording; original ambiguity retained in annotation.
+Sexual, political, theological, legal, class-based, and literal/figurative double meanings receive heightened review.
+7. Metaphor-Chain Preservation Rule
+When Shakespeare develops an image family over several lines, preserve the chain as a system rather than replacing each local image with unrelated slang.
+Each scene with a sustained figurative system should include a Metaphor Ledger.
+8. Character Idiolect Matrix
+Major characters should receive a reusable linguistic profile before or during translation. At minimum record:
+Slang density range.
+Register and education/status profile.
+Preferred semantic fields.
+Terms or constructions the character should avoid.
+Degree of Early Modern syntax retained.
+Typical sentence length and rhetorical complexity.
+Humor, irony, profanity, intimacy, and aggression tolerances.
+Illustrative profiles from the current corpus:
+9. Rhetorical-Figure Preservation Layer
+Identify and preserve, where feasible:
+antithesis
+anaphora
+epistrophe
+parallelism
+chiasmus
+catalogue
+rhetorical question
+apostrophe
+oxymoron
+paradox
+pun
+repetition
+gradatio/climax
+stichomythia
+rhyme
+caesura
+Rhetorical fidelity is scored independently from lexical fidelity. A modern phrase may be semantically approximate but still be acceptable if it preserves a crucial rhetorical action and the semantic loss is documented.
+10. Multiaxial Equivalence Scoring
+The former strong/moderate/loose judgment remains available as a summary label, but major interventions should be scored on separate axes:
+A score is an editorial diagnostic, not a mathematical proof of literary quality.
+11. Back-Translation / Information-Retention Test
+After a heavily modernized passage is drafted, ask:
+If a reader knew only the contemporary translation, could that reader reconstruct the major propositions, relationships, emotional stakes, and rhetorical movement of the Shakespearean source?
+If the answer is materially no, the passage must be revised or the loss explicitly justified.
+12. Nuance Loss Register
+Known losses are documented rather than hidden. Record at minimum:
+13. Slang Half-Life Rating
+Every significant slang term may be assigned a durability class:
+This classification supports both a fixed 2026 historical edition and any later rolling contemporary edition.
+14. Iconic-Line Threshold
+An iconic line may remain substantially intact when:
+1. its vocabulary remains largely understandable;
+2. its rhythm or phrasing carries exceptional cultural significance;
+3. replacing it would destroy more than it gains;
+4. surrounding modernization supplies sufficient contemporary contrast.
+Slang density is not itself a quality metric.
+15. Dramatic-Irony Protection Rule
+The translation must not accidentally give a character knowledge that the character does not possess.
+For each materially ironic passage, record:
+Speaker knowledge state.
+Audience knowledge state.
+Other-character knowledge state when relevant.
+Whether the modern vocabulary risks collapsing those distinctions.
+A term such as 'gaslighting' may be used by narration/annotation or a character who recognizes manipulation, but must not be inserted into a character's speech if it would prematurely reveal knowledge unavailable to that character.
+16. Power / Consent / Coercion Fidelity Check
+Mandatory for passages involving marriage, sexuality, enslavement, parental authority, monarchy, violence, racial hierarchy, economic dependency, or legal coercion.
+The modernization must not make coercive relationships sound casually consensual or convert ownership, compulsion, threat, or dependency into cute relationship language.
+Relationship slang such as ship, hard launch, rizz, down bad, or green/red flag must be checked against actual agency and power conditions before use.
+17. Performance Test
+Every major scene should undergo a read-aloud/performance-oriented review.
+A line that reads cleverly but cannot be performed naturally does not satisfy the protocol.
+18. Scene Beat Mapping
+Before or during translation, divide the scene into dramatic beats and verify that the adaptation preserves their order, escalation, and turning points.
+Example structure:
+Iago hesitates -> Othello presses -> Iago warns -> jealousy seeded -> Othello resists -> proof standard declared -> Iago escalates.
+Beat mapping is especially important when lexical creativity risks flattening escalation.
+19. Modernization Intensity Scale
+Passages may receive an M0-M5 intensity designation:
+M3 remains the default minimum overall target for a Romeo-protocol adaptation, but an individual iconic speech may intentionally operate at M1-M2 while comic or highly colloquial material rises to M4-M5.
+Intensity is therefore allocated by dramatic function, not by a quota of slang.
+20. Pun / Wordplay Reconstruction Requirement
+For each significant pun or wordplay mechanism, record:
+Original lexical mechanism -> original double meaning -> possible modern double meaning -> resulting substitution.
+If no viable contemporary pun exists, retain or gloss the original and record the failure to reproduce the wordplay rather than silently deleting it.
+21. Cultural-Reference Transformation Matrix
+Cultural, mythological, theological, legal, scientific, and historical references must be assigned one treatment:
+The choice should be driven by dramatic function, cultural load, intelligibility, and loss risk.
+22. Lexical Saturation Control
+Default rule: no more than one primary slang payload per rhetorical unit unless character voice, comic structure, or deliberate escalation justifies stacking.
+High-density exceptions may include Bottom, the Fool, Stephano/Trinculo, certain Mercutio passages, or other explicitly comic/escalatory contexts.
+Tragic and lyrical passages should be protected from unintended meme parody.
+23. Formal Romeo Protocol Nuance Audit
+Every completed scene or major passage should include a Nuance Audit.
+24. Required Scene-Level Artifacts Under v2.0
+A complete v2.0 scene package should contain, when applicable:
+Source/baseline identification.
+Scene beat map.
+Character idiolect matrix or applicable excerpts.
+Canonical 2026 adaptation.
+Bold lexical/accommodation markup.
+Lexical annotation register.
+Metaphor ledger.
+Pun/wordplay register.
+Ambiguity register.
+Nuance-loss register.
+Power/consent/coercion check.
+Prosodic/performance notes.
+Slang half-life classifications for significant terms.
+Scene-level and cumulative lexical counts.
+Romeo Protocol Nuance Audit.
+Revision/provenance record.
+25. Applicability Beyond Shakespeare
+The v2.0 method may be applied to other historically distant dramatic or literary texts when the user explicitly places them under the protocol. The central transferable unit is dramatic/rhetorical function rather than slang substitution.
+Potential domains include Marlowe, Jonson, Milton, Chaucer, Greek tragedy, Restoration drama, opera libretti, Biblical translation experiments, and other historically distant texts.
+Genre-specific adaptations may add constraints but may not silently remove the baseline Romeo requirements.
+26. Version-Control and Adoption Rule
