@@ -1,0 +1,360 @@
+- **Cook / let him cook / skill issue / GOAT / drip / slay / left no crumbs / yap**: especially well matched to Bottom's self-important theatricality.
+
+## PDF-First Canonical Ledger at That Stage
+
+| Metric | Act I.1 + I.2 |
+|---|---:|
+| Distinct PDF-attested slang terms | 41 |
+| Slang occurrences | 49 |
+
+This version was a material improvement in evidentiary discipline, but it was later judged too conservative in overall translation density compared with the established Romeo protocol.
+
+
+
+# Revision Layer D - Comparison Against the Romeo Protocol
+
+The user observed that the earlier Romeo and Juliet work sounded more thoroughly updated than the Midsummer drafts. That assessment was accepted.
+
+The canonical Romeo artifact states that it consolidates three successive iambic-pentameter-oriented rewrites, retains Shakespeare's original dramatic sequence and recognizable Early Modern syntactic frame wherever possible, and bolds contemporary slang, digital-era lexicon, and wording rewritten to accommodate those substitutions. Its annotations distinguish close lexical equivalence from looser metaphorical or metrical accommodation. The user-supplied slang PDF is the primary slang source, with selected 2025-2026 dictionary sources used to corroborate slang absent from the glossary.
+
+The gap was diagnosed as follows:
+
+1. The Midsummer PDF-first rewrite treated the slang glossary too narrowly, almost as if only exact one-to-one matches were allowed.
+2. The Romeo method allowed semantic and metaphorical substitution, not merely synonym replacement.
+3. Romeo modernized the connective tissue around slang; the earlier Midsummer version left too much surrounding syntax in neutral modern English.
+4. Romeo created recurring lexical systems: hard-launch, down bad, lore, cap/no cap, vibe, cook, ghost, etc. were reused and inflected across the scene.
+5. Romeo had multiple revision passes, so it found second-order substitutions in imagery, jokes, interpersonal dynamics, digital metaphors, and meter.
+6. Bottom's characterization especially supported a denser 2026 lexicon than the prior Midsummer version used.
+
+The project therefore adopted this standing rule:
+
+"All translation works produced together must, at a minimum, match the Romeo protocol."
+
+The Romeo protocol is a floor, not a ceiling. It requires:
+- Shakespearean dramatic structure and character differentiation preserved.
+- Iambic-pentameter/prosodic orientation retained where feasible.
+- Aggressive contemporary lexical reconstruction rather than sparse word replacement.
+- The uploaded slang PDF used as the primary slang lexicon.
+- Current slang absent from the PDF may be added only with separate contemporary support and clear labeling.
+- Surrounding syntax may be rewritten to make slang function naturally.
+- Slang and accommodation wording are bolded.
+- Annotations identify source wording/function, rationale, equivalence strength, and metrical accommodation.
+- Recurring slang forms coherent lexical systems.
+- Scene-level and project-cumulative ledgers are maintained.
+
+
+
+# Revision Layer E - Current Canonical Midsummer Translation
+## Status
+
+The following Act I, Scenes 1-2 supersede the prior Midsummer drafts as the active canonical translation. Earlier drafts remain in this dossier as provenance and revision history; they are not silently deleted and they are not double-counted in the current canonical corpus.
+
+The current version uses the Romeo protocol as its minimum standard.
+
+# Canonical Act I, Scene 1
+
+THESEUS
+
+Now, fair Hippolyta, our wedding hour
+draws close; yet four days feel **lagging IRL**.
+This moon is **hardstuck** inside her phase
+and keeps my wants, like some old dowager
+who leaves a young man's payout **paywalled**.
+
+HIPPOLYTA
+
+Four days will **speedrun** into four nights;
+four nights will dream themselves away in haste.
+Then shall the moon, bent like a silver bow,
+look down upon the night we make this bond.
+
+THESEUS
+
+Go, Philostrate. Tell Athens **we outside**.
+Wake every quick and nimble spirit up;
+make melancholy **log off** till funerals.
+Our wedding should be **peak**, not funeral-core.
+
+[Philostrate exits.]
+
+Hippolyta, our origin was **out of pocket**:
+I wooed thee with a sword and won by harm.
+But now we **hard-launch** in another key,
+with pomp, with triumph, revelry, and joy.
+
+[Enter EGEUS, HERMIA, LYSANDER, and DEMETRIUS.]
+
+EGEUS
+
+Long life to Theseus, our famous duke!
+
+THESEUS
+
+Thanks, Egeus. What news?
+
+EGEUS
+
+I enter **heated**, and I bring complaint
+against my child, my daughter Hermia.
+Demetrius, stand forth. My lord, this man
+has my consent to marry her. Lysander,
+stand forth. This man has worked his **rizz** on her,
+has fed her rhymes and traded tokens too,
+has staged a moonlit **thirst trap** at her window,
+with fake-love verses, bracelets, rings, and gifts,
+a whole romantic **soft launch** built to hook
+a young and still-unhardened fantasy.
+By cunning he has stolen her affection
+and pushed my daughter toward a **villain era**,
+turning obedience into stubbornness.
+
+If she will not consent to marry him,
+Demetrius, then Athens gives me **admin rights**:
+as she is mine, I choose where she shall go-
+to this man, or to death. That is the law.
+
+THESEUS
+
+What say you, Hermia? **Be for real**.
+Your father, in your world, should rank as god.
+He made the first **character build** of you;
+you're wax impressed beneath his shaping hand,
+and he may keep that figure or destroy it.
+Demetrius reads plainly **green flag**.
+
+HERMIA
+
+So does Lysander.
+
+THESEUS
+
+Yes, himself he does,
+but your own father does not **ship** that match.
+His judgment therefore gives the other rank.
+
+HERMIA
+
+I wish my father looked but through my eyes.
+
+THESEUS
+
+Your eyes must learn to use his point of view.
+
+HERMIA
+
+Your Grace, forgive the boldness of my speech.
+I know not how it plays before this court,
+but tell me this, **no cap**: what is the worst,
+the absolute **hard cap**, if I refuse
+to marry with Demetrius?
+
+THESEUS
+
+Death-or **hard block** the company of men
+forever. Hermia, therefore **lock in**.
+Examine youth, desire, and what you want.
+If you reject the choice your father made,
+can you endure **nun-core** all your life,
+shut in a cloister, childless, chanting hymns
+unto the cold and unproductive moon?
+Thrice blessed are they who master their desire,
+yet earthlier happy is the rose distilled
+than one that grows and withers on the thorn.
+
+HERMIA
+
+Then let me grow, and live, and die that way
+before I **hard-launch** a man I do not choose
+or grant him **admin access** to my soul.
+
+THESEUS
+
+Take time. By the next moon-the day I seal
+my everlasting bond with Hippolyta-
+you must **lock it in**: prepare to die,
+or marry with Demetrius as commanded,
+or vow austerity and single life.
+
+DEMETRIUS
+
+Relent, sweet Hermia. Lysander, **hold this L**.
+Give up your broken title to my right.
+
+LYSANDER
+
+You have her father's love. **Weird flex**, my man.
+Let me have Hermia's; you marry him.
+
+EGEUS
+
+Scorn all you like. Demetrius has my love.
+She is my child, and all my right in her
+I settle and estate on Demetrius.
+
+LYSANDER
+
+My birth is every bit as good as his,
+my property as great, perhaps still more.
+My love exceeds his love; and most of all,
+Hermia loves me. Why deny my right?
+
+And here comes the **receipts thread** on this man:
+Demetrius made love to Helena,
+won all her soul, left her **down bad for you**,
+then **ghosted** that whole bond for Hermia.
+She still adores this walking **red flag** here,
+this spotted, shifting, inconsistent man.
+
+THESEUS
+
+I have heard that **tea** and meant to speak,
+but wedding business crowded out my mind.
+Demetrius and Egeus, come with me.
+I owe you both a private **vibe check**.
+
+And Hermia, prepare yourself to fit
+your wishes to your father's will, or else
+the law of Athens gives you up to death
+or to a vow of single life. We cannot
+soften the statute merely for your case.
+
+Come, Hippolyta. Gentlemen, come too.
+I have some wedding business for you both
+and matters touching closely on yourselves.
+
+EGEUS
+
+With duty and desire, we follow you.
+
+[All but HERMIA and LYSANDER exit.]
+
+LYSANDER
+
+How now, my love? Thy cheek is **not giving** rose.
+Why has its color faded out so fast?
+
+HERMIA
+
+For want of rain; and I could give enough
+from all the storm now gathered in mine eyes.
+
+LYSANDER
+
+Ay me. From everything I've read or heard,
+**no cap**, true love has never **speedrun** smooth.
+Sometimes the bloodlines never match in rank-
+
+HERMIA
+
+**Big yikes**-too high a love chained down to low.
+
+LYSANDER
+
+Or age gets grafted badly to desire-
+
+HERMIA
+
+A **red flag**: old compelled to marry young.
+
+LYSANDER
+
+Or friends decide the match instead of us-
+
+HERMIA
+
+O hell, to let a whole group chat **ship** your love!
+
+LYSANDER
+
+Or if two hearts agree, then war or death
+or sickness comes to **third-party** the match,
+and love turns momentary as a sound,
+swift as a shadow, brief as any dream,
+short as the lightning in a coal-black night:
+before a man can even **clock** the flash,
+the darkness swallows everything again.
+So quickly bright things **ghost from sight** and fail.
+
+HERMIA
+
+If lovers always end up getting **cooked**,
+then patience is the **new meta** of love.
+We'll bear the trial because it comes with love,
+like thoughts and dreams and wishes, sighs and tears.
+
+LYSANDER
+
+Good argument. Now hear me, Hermia.
+I have a widowed aunt with serious wealth,
+no child; she treats me as her only son.
+Her house lies far beyond Athenian reach.
+There may I marry thee; the city's law
+gets **hard-blocked** at her door. If thou lovest me,
+then **lock in**: leave thy father's house tomorrow,
+and meet me in the wood outside the town,
+where once I met thee there with Helena
+to celebrate the morning of the May.
+There will I wait for thee.
+
+HERMIA
+
+**Say less**, Lysander.
+By Cupid's strongest bow and golden arrow,
+by Venus' doves, by Dido's ancient fire,
+and every oath that faithless men made **cap**-
+more lies than women ever spoke in vows-
+tomorrow, **no cap**, I will meet thee there.
+
+LYSANDER
+
+Keep promise, love. Look-Helena comes.
+
+[Enter HELENA.]
+
+HERMIA
+
+Godspeed, fair Helena. Where are you going?
+
+HELENA
+
+Call me "fair"? **Be so for real**, Hermia.
+Demetrius thinks you **ate**; he sees your eyes
+like guiding stars, your voice more musical
+than larks across the young green fields of spring.
+If beauty spread like sickness, I would catch
+your **aura**, eye for eye and voice for voice.
+Were all the world mine, save Demetrius,
+I'd trade it just to **glow up** into you.
+Teach me your **rizz**. What art, what hidden move,
+makes his whole heart keep turning toward your face?
+
+HERMIA
+
+I **drag** him, yet he loves me all the more.
+
+HELENA
+
+O, teach my smiles that kind of **clutch** result.
+
+HERMIA
+
+I curse him, and he answers me with love.
+
+HELENA
+
+I pray for love; he answers me with hate.
+
+HERMIA
+
+The more I hate him, more he follows me.
+
+HELENA
+
+The more I love him, more I'm **down horrendous**.
+
+HERMIA
+
+His foolishness is no **skill issue** of mine.
+
+HELENA
+
