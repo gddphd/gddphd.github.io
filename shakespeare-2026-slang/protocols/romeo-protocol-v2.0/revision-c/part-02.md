@@ -1,3 +1,4 @@
+
 Known losses are documented rather than hidden. Record at minimum:
 
 | Original feature | Modern treatment | Residual loss |
