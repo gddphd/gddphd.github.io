@@ -1,0 +1,220 @@
+The method intentionally preserves the logical sequence of Shakespeare's argument even where the imagery changes. "New meta" is a gaming-derived metaphor for the emergent strategy of patience. "Ghost from sight" was already established in the Romeo project as a modern disappearance analogue.
+
+### Helena system
+
+Helena receives a lexical density closer to Romeo: **be so for real**, **ate**, **aura**, **glow up**, **rizz**, **drag**, **clutch**, **down horrendous**, **skill issue**, **ghost**, **hellscape**, **lore dump**, **girl therapy**, **era**, **close friends only**, **mid**, **math ain't mathing**, **peak delulu**, **hard-deleted**, **tea time**, **down bad**, and **we move**.
+
+This system translates:
+- envy of Hermia's perceived desirability;
+- asymmetry in romantic pursuit;
+- Helena's friendship with Hermia;
+- the escape-plan disclosure;
+- Helena's philosophical analysis of love;
+- her knowingly self-defeating decision to tell Demetrius.
+
+The line:
+
+Love looks not with the eyes but with the mind;
+the **math ain't mathing**, therefore Cupid's blind.
+
+is a representative Romeo-protocol collision: current slang takes over the argumentative function of the original line rather than merely decorating it.
+
+## Canonical Annotation and Equivalence Notes - Act I, Scene 2
+
+Bottom's role now carries the highest slang density because Shakespeare already characterizes him through interruption, theatrical overconfidence, self-promotion, and eagerness to play every role.
+
+**Locked in**, **lore dump**, **peak**, **no cap**, **slaps hard**, **cook and eat**, **lowkey**, **mid**, **hard-carry**, **cook**, **mog**, and **hits different** create Bottom's self-evaluating performance vocabulary.
+
+The "cook" family is particularly productive: the glossary supports cook as brilliant creation/delivery and cook-and-eat as creating and performing excellently. Equivalence strength: strong character/pragmatic.
+
+**Hard-carry** means one player single-handedly wins. Because Bottom repeatedly tries to take multiple roles, this is a strong metaphorical analogue.
+
+**Let me cook**, **clown behavior**, **Pack it up**, **Say less**, **Bet**, **Big yikes**, and **skill issue** translate the tug-of-war between Bottom's interruptions and Quince's attempts to control rehearsal.
+
+**Soft-launch** is used comically for Bottom's proposed gentle lion roar: instead of revealing a relationship, he would reveal terror gradually. This is a deliberately loose but internally coherent extension of an established project term.
+
+**Main character**, **GOAT**, **drip**, and **drip check** translate Bottom's self-elevation and beard/costume obsession. Equivalence strength: strong comic-functional.
+
+**Tea time** maps Quince's fear that rehearsing in town would reveal the group's plans. **Feral**, **yap**, **slay**, and **leave no crumbs** modernize the rehearsal's secrecy and Bottom's prediction of flawless performance.
+
+**We ride at moonrise** is a creative derived variant of the attested "we ride at dawn." It preserves the rallying-cry function while changing the time to match the mechanicals' actual moonlit rehearsal. It is tracked separately from exact attested slang in the conservative ledger.
+
+
+
+# Counting Framework and Revision History
+
+The project now distinguishes three different metrics because earlier drafts sometimes conflated them.
+
+| Metric | Definition |
+|---|---|
+| Bold lexical intervention | Every bolded span in the canonical translation. This includes slang, slang-derived phrases, and non-slang wording rewritten to accommodate the contemporary lexical layer. |
+| Conservative slang/slang-derived occurrence | A tracked slang expression or slang-derived expression counted at the term level, excluding accommodation-only wording. |
+| Distinct normalized exact expression | A unique tracked expression after case normalization only. Hyphenation and inflection remain separate unless explicitly grouped into a term family. |
+
+## Midsummer Count Timeline
+
+| Revision state | Status | Occurrences | Distinct expressions | Notes |
+|---|---|---:|---:|---|
+| Initial opening draft | Superseded | 10 | 10 | First Theseus/Hippolyta/Philostrate lexical layer. |
+| Initial Part II running total | Superseded | 31 | 31 | Opening + Egeus/Theseus dispute through departure. |
+| PDF-first Scenes 1-2 | Superseded | 49 | 41 | Exact PDF-attestation emphasized; later judged too conservative. |
+| Romeo-protocol Scenes 1-2, bold interventions | Current | 112 | 97 raw bold forms before normalization | 77 spans in I.1; 35 spans in I.2. |
+| Romeo-protocol conservative slang ledger | Current | 108 | 83 normalized exact expressions across I.1-I.2 | 74 occurrences / 62 expressions in I.1; 34 occurrences / 31 expressions in I.2; 10 expressions occur in both scenes. |
+
+## Reconciliation Note
+
+The current canonical text contains 77 bold spans in Act I, Scene 1 and 35 in Act I, Scene 2, for 112 bold interventions. Three Scene 1 spans-"admin rights," "character build," and "admin access"-are explicitly digital-era accommodation rather than slang. "We ride at moonrise" in Scene 2 is a creative derivative of the attested "we ride at dawn"; the conservative slang count excludes it. Under that conservative convention, the Midsummer corpus records 108 slang/slang-derived occurrences.
+
+Earlier messages reported both 109 and 108 strict Midsummer occurrences because the derived "we ride at moonrise" was alternately included and excluded. Earlier messages also reported 84 distinct Midsummer expressions and 115 project-wide expressions. A case-normalized exact-expression audit of the actual canonical text corrects those figures to 83 Midsummer expressions and 114 project-wide expressions. The one-expression difference arose from inconsistent treatment of capitalization variants as distinct entries. This dossier preserves the prior figures in the revision record but adopts the audited figures below as controlling.
+
+## Cross-Work Counts Including Romeo and Juliet - Audited Current Ledger
+
+The canonical Romeo artifact is Romeo and Juliet, Act II, Scene II, the balcony scene. It consolidates three metrically constrained passes into one canonical scene rather than counting the passes as separate scenes.
+
+| Work / scene | Conservative slang-term occurrences | Distinct normalized exact expressions |
+|---|---:|---:|
+| Romeo and Juliet II.ii | 67 | 46 |
+| A Midsummer Night's Dream I.i | 74 | 62 |
+| A Midsummer Night's Dream I.ii | 34 | 31 |
+| Midsummer I.i-I.ii combined | 108 | 83 |
+| Entire canonical project | 175 | 114 |
+
+A separate intervention-level comparison is:
+
+| Work | Bold lexical interventions |
+|---|---:|
+| Romeo and Juliet II.ii | 74 |
+| Midsummer I.i | 77 |
+| Midsummer I.ii | 35 |
+| Entire canonical project | 186 |
+
+The 175-occurrence figure is therefore not interchangeable with the 186-intervention figure. The former is a conservative slang/slang-derived count; the latter includes accommodation-only bold rewriting.
+
+
+# Master Cross-Work Term Ledger - Current Canonical Corpus
+
+Counting convention: case-normalized exact expressions; hyphenation/inflection remain separate. Midsummer accommodation-only spans and the derived rallying-cry variant "we ride at moonrise" are excluded from the conservative count. Romeo counts are from the canonical Act II, Scene II term-level audit.
+
+| Tracked expression | Romeo II.ii | Midsummer I.i | Midsummer I.ii | Project total |
+|---|---|---|---|---|
+| ate | 0 | 1 | 0 | 1 |
+| aura | 1 | 1 | 0 | 2 |
+| baddie | 1 | 0 | 0 | 1 |
+| be for real | 0 | 1 | 1 | 2 |
+| be so for real | 0 | 1 | 0 | 1 |
+| bestie | 2 | 0 | 0 | 2 |
+| bet | 0 | 0 | 1 | 1 |
+| big yikes | 0 | 1 | 1 | 2 |
+| block | 1 | 0 | 0 | 1 |
+| cap | 2 | 1 | 0 | 3 |
+| clock | 3 | 2 | 0 | 5 |
+| close friends only | 0 | 1 | 0 | 1 |
+| clown behavior | 0 | 0 | 1 | 1 |
+| clowns | 1 | 0 | 0 | 1 |
+| clutch | 0 | 1 | 0 | 1 |
+| cook | 1 | 0 | 1 | 2 |
+| cook and eat | 0 | 0 | 2 | 2 |
+| cooked | 1 | 1 | 0 | 2 |
+| cooks | 1 | 0 | 0 | 1 |
+| crush | 1 | 0 | 0 | 1 |
+| down bad | 1 | 1 | 0 | 2 |
+| down bad for you | 0 | 2 | 0 | 2 |
+| down horrendous | 0 | 1 | 0 | 1 |
+| down-bad | 1 | 0 | 0 | 1 |
+| drag | 0 | 1 | 0 | 1 |
+| drip | 1 | 0 | 1 | 2 |
+| drip check | 0 | 0 | 1 | 1 |
+| drop | 2 | 0 | 0 | 2 |
+| dropped | 1 | 0 | 0 | 1 |
+| era | 0 | 1 | 0 | 1 |
+| feral | 0 | 0 | 1 | 1 |
+| ghost | 0 | 1 | 0 | 1 |
+| ghost from sight | 1 | 1 | 0 | 2 |
+| ghosted | 0 | 1 | 0 | 1 |
+| girl therapy | 0 | 1 | 0 | 1 |
+| glow up | 0 | 2 | 0 | 2 |
+| goat | 0 | 0 | 1 | 1 |
+| green flag | 0 | 1 | 0 | 1 |
+| handle | 4 | 0 | 0 | 4 |
+| hard block | 0 | 1 | 0 | 1 |
+| hard cap | 0 | 1 | 0 | 1 |
+| hard-blocked | 0 | 1 | 0 | 1 |
+| hard-carry | 0 | 0 | 1 | 1 |
+| hard-delete | 2 | 0 | 0 | 2 |
+| hard-deleted | 0 | 1 | 0 | 1 |
+| hard-launch | 4 | 2 | 0 | 6 |
+| hard-launched | 1 | 0 | 0 | 1 |
+| hard-launching | 1 | 0 | 0 | 1 |
+| hardstuck | 0 | 1 | 0 | 1 |
+| heated | 0 | 1 | 0 | 1 |
+| hellscape | 0 | 1 | 0 | 1 |
+| hits different | 0 | 0 | 1 | 1 |
+| hold this l | 0 | 1 | 0 | 1 |
+| lagging irl | 0 | 1 | 0 | 1 |
+| leave no crumbs | 0 | 0 | 1 | 1 |
+| let me cook | 0 | 0 | 1 | 1 |
+| lock in | 0 | 2 | 1 | 3 |
+| lock it in | 1 | 1 | 0 | 2 |
+| locked in | 0 | 0 | 1 | 1 |
+| log off | 0 | 1 | 0 | 1 |
+| lore | 6 | 0 | 0 | 6 |
+| lore dump | 0 | 1 | 1 | 2 |
+| lore-dump | 1 | 0 | 0 | 1 |
+| lowkey | 0 | 0 | 1 | 1 |
+| main character | 0 | 0 | 1 | 1 |
+| math ain't mathing | 0 | 1 | 0 | 1 |
+| memes | 1 | 0 | 0 | 1 |
+| mid | 0 | 1 | 1 | 2 |
+| mog | 2 | 0 | 1 | 3 |
+| mogs | 1 | 0 | 0 | 1 |
+| more fire | 1 | 0 | 0 | 1 |
+| new meta | 0 | 1 | 0 | 1 |
+| no cap | 2 | 4 | 1 | 7 |
+| no vibe | 1 | 0 | 0 | 1 |
+| not giving | 0 | 1 | 0 | 1 |
+| nun-core | 0 | 1 | 0 | 1 |
+| opp | 1 | 0 | 0 | 1 |
+| out of pocket | 0 | 1 | 0 | 1 |
+| pack it up | 0 | 0 | 1 | 1 |
+| paywalled | 0 | 1 | 0 | 1 |
+| peak | 0 | 1 | 2 | 3 |
+| peak delulu | 1 | 1 | 0 | 2 |
+| ping | 2 | 0 | 0 | 2 |
+| pings | 1 | 0 | 0 | 1 |
+| play it cold | 1 | 0 | 0 | 1 |
+| play it cool | 1 | 0 | 0 | 1 |
+| queen | 1 | 0 | 0 | 1 |
+| rebranded | 1 | 0 | 0 | 1 |
+| receipts thread | 0 | 1 | 0 | 1 |
+| red flag | 0 | 2 | 0 | 2 |
+| rizz | 1 | 2 | 0 | 3 |
+| say less | 0 | 1 | 1 | 2 |
+| ship | 0 | 2 | 0 | 2 |
+| skill issue | 0 | 1 | 1 | 2 |
+| slaps hard | 0 | 0 | 2 | 2 |
+| slay | 0 | 0 | 1 | 1 |
+| soft launch | 0 | 1 | 0 | 1 |
+| soft-launch | 2 | 0 | 1 | 3 |
+| speedrun | 0 | 2 | 0 | 2 |
+| tag | 1 | 0 | 0 | 1 |
+| tap in | 1 | 0 | 0 | 1 |
+| tea | 0 | 1 | 0 | 1 |
+| tea time | 0 | 1 | 1 | 2 |
+| third-party | 0 | 1 | 0 | 1 |
+| thirst trap | 0 | 1 | 0 | 1 |
+| top-tier | 1 | 0 | 0 | 1 |
+| vibe | 1 | 0 | 0 | 1 |
+| vibe check | 0 | 1 | 0 | 1 |
+| vibe shift | 1 | 0 | 0 | 1 |
+| villain era | 0 | 1 | 0 | 1 |
+| we move | 0 | 1 | 0 | 1 |
+| we outside | 0 | 1 | 0 | 1 |
+| weird flex | 0 | 1 | 0 | 1 |
+| yap | 0 | 0 | 1 | 1 |
+
+Totals: Romeo II.ii = 67; Midsummer I.i = 74; Midsummer I.ii = 34; project = 175.
+
+
+
+# Historical Production Counts for Superseded Drafts
+
