@@ -2,13 +2,13 @@
 
 This directory contains the methodology used to construct and evaluate the Shakespeare-to-2026-slang adaptations.
 
-## Current development line
+## Preserved development line
 
 The Romeo Protocol began with the *Romeo and Juliet* Act II, Scene II adaptation and developed cumulatively as additional plays, lexical systems, prosodic tests, tonal critiques, and DRASP stress tests were added.
 
 ### Preserved baseline requirements
 
-The protocol's original working floor includes:
+The historical working floor includes:
 
 1. Preserve Shakespeare's dramatic sequence, character relationships, argumentative structure, and recognizable rhetorical architecture.
 2. Maintain an iambic-pentameter / Shakespearean prosodic orientation where feasible without falsely claiming mechanical regularity.
@@ -23,9 +23,20 @@ The protocol's original working floor includes:
 11. Preserve revision history and superseded versions.
 12. Distinguish slang, derived forms, supplemental contemporary usage, and non-slang digital-era accommodations.
 
-## Romeo Protocol v2.0 development
+## Romeo Protocol v2.0 archive
 
-The v2.0 draft line expands the protocol beyond lexical equivalence into a broader fidelity system. Development has included:
+The v2.0 development line is preserved as separate cumulative snapshots:
+
+- [`initial-draft/`](romeo-protocol-v2.0/initial-draft/) — Nuance-Fidelity Extension before the Gemini-informed modules.
+- [`revision-b/`](romeo-protocol-v2.0/revision-b/) — adds Module A, Prosodic Reconstruction, and Module B, Dramatic Gravity and Tonal Fidelity, with Gemini attribution.
+- [`revision-c/`](romeo-protocol-v2.0/revision-c/) — integrates Gemini DRASP stress tests, contradiction testing, lexical rigidity, performed-verse analysis, and rhyme controls.
+- [`revision-d/`](romeo-protocol-v2.0/revision-d/) — adds Module C, Prose Modality and Pragmatic Alignment, plus temporal-localization, universality, and philosophical-compression controls.
+
+Each revision is preserved independently rather than overwritten by the next.
+
+## Major v2.0 additions
+
+### Nuance-Fidelity layer
 
 - Nuance Fidelity Stack
 - speech-act classification
@@ -50,44 +61,46 @@ The v2.0 draft line expands the protocol beyond lexical equivalence into a broad
 
 ### Revision B
 
-Gemini methodological feedback contributed two originating suggestions that were formalized into:
+Gemini methodological feedback contributed originating suggestions that were formalized into:
 
 - **Module A — Prosodic Reconstruction Framework**
 - **Module B — Dramatic Gravity and Tonal Fidelity Framework**
 
 ### Revision C
 
-Additional Gemini DRASP stress tests contributed empirical testing of:
+Additional Gemini DRASP stress tests contributed empirical testing and formal controls for:
 
-- heavy-stress lexical placement
-- first-foot inversion and caesura strategies
-- fixed multi-word idiom rigidity
-- mathematical scansion versus performed verse
-- end-rhyme conflict
-- rhyme-form versus rhyme-function fidelity
-- formal compensation when exact rhyme is sacrificed
-- performer-variability uncertainty
+- heavy-stress lexical placement;
+- first-foot inversion and caesura strategies;
+- fixed multi-word idiom rigidity;
+- mathematical scansion versus performed verse;
+- end-rhyme conflict;
+- rhyme-form versus rhyme-function fidelity;
+- formal compensation when exact rhyme is sacrificed;
+- performer-variability uncertainty.
 
-Revision C also formalized an Accepted / Qualified / Rejected-Unproven evidence-synthesis rule so external AI findings are not incorporated uncritically.
+Revision C also formalized an **Accepted / Qualified / Rejected-Unproven** evidence-synthesis rule so external AI findings are not incorporated uncritically.
 
-### Revision D — current draft candidate
+### Revision D — latest draft candidate
 
-The latest draft adds **Module C — Prose Modality and Pragmatic Alignment Framework** and distinguishes structural ease from semantic success.
+Revision D adds **Module C — Prose Modality and Pragmatic Alignment Framework** and distinguishes structural ease from semantic success.
 
 Key additions include:
 
-- P1-P4 / P? prose modality classification
-- Pragmatic Alignment Gate
-- T0-T3 Temporal Localization scale
-- Universality Preservation Gate
-- Philosophical Compression Rule
-- structural elasticity versus semantic/pragmatic elasticity
-- High-Density Prose Opportunity Rule
-- new multiaxial scores for pragmatic alignment and universality preservation
-- paired prose retro-audit using *A Midsummer Night's Dream* and *King Lear*
+- P1-P4 / P? prose modality classification;
+- Pragmatic Alignment Gate;
+- T0-T3 Temporal Localization scale;
+- Universality Preservation Gate;
+- Philosophical Compression Rule;
+- structural elasticity versus semantic/pragmatic elasticity;
+- High-Density Prose Opportunity Rule;
+- new multiaxial scores for pragmatic alignment and universality preservation;
+- paired prose retro-audit using *A Midsummer Night's Dream* and *King Lear*.
 
-## Status
+## External-review record
 
-Revision D remains a **draft candidate**. It should not be represented as formally adopted until the project owner explicitly authorizes adoption.
+The Gemini/DRASP review register is maintained under [`../methodology/drasp-tests/`](../methodology/drasp-tests/). External critiques are inputs to evaluation, not self-executing protocol amendments.
 
-Prior revisions should remain available after later revisions are added.
+## Adoption status
+
+Revision D remains a **draft candidate**. Repository population and preservation do not themselves constitute adoption. No v2.0 revision should be represented as formally controlling until the project owner explicitly authorizes that status.
