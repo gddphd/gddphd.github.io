@@ -1,55 +1,50 @@
 # Shakespeare Adaptation Corpus Index
 
-This directory organizes the individual Shakespeare-to-2026-slang adaptations governed by the Romeo Protocol.
+This directory organizes the individual Shakespeare-to-2026-slang adaptations governed historically by the Romeo Protocol and evaluated by the developing v2.0 methodology.
 
-## Current canonical / working adaptation set
+## Current adaptation set
 
-| Work | Passage | Current artifact status | Notes |
+| Work | Passage | Repository status | Historical role |
 | --- | --- | --- | --- |
-| *Romeo and Juliet* | Act II, Scene II | Existing DOCX already present in repository root; canonical reference artifact | Originating adaptation and protocol floor. |
-| *A Midsummer Night's Dream* | Act I, Scenes I-II | Working dossier exists outside this branch and is ready to be organized here | Important comedy/prose and character-density test case. |
-| *Othello* | Act III, Scene III selected passage | GitHub-ready DOCX/TXT working edition exists | Evidence/verification lexical system; dramatic-irony and manipulation test case. |
-| *King Lear* | Act III, Scene II | GitHub-ready DOCX/TXT working edition exists | Tragic-gravity, prosodic-friction, rhyme, and retro-audit test case. |
-| *The Tempest* | Act III, Scene II | GitHub-ready DOCX/TXT working edition exists | Comic/prose versus lyrical-register test case. |
+| [*Romeo and Juliet*](romeo-and-juliet/) | Act II, Scene II | Structured work page, original DOCX copy, and readable archive present | Originating adaptation and protocol floor. |
+| [*A Midsummer Night's Dream*](midsummer-nights-dream/) | Act I, Scenes I-II | Complete working dossier preserved in a GitHub-readable multipart archive; historical drafting layers retained | Comedy/prose, character-density, and transactional-pragmatics test case. |
+| [*Othello*](othello/) | Act III, Scene III selected passage | Full TXT working edition and work/scene indexes present | Evidence/verification, manipulation, dramatic-irony, and fixed-idiom test case. |
+| [*King Lear*](king-lear/) | Act III, Scene II | Full TXT working edition and work/scene indexes present | Tragic gravity, prosodic friction, rhyme, satire, and retro-audit test case. |
+| [*The Tempest*](the-tempest/) | Act III, Scene II | Full TXT working edition and work/scene indexes present | Comic/prose versus lyrical-register and coercion-fidelity test case. |
 
-## Planned per-work structure
+## Current working corpus checkpoint
 
-Each work should ultimately use a structure similar to:
+Before future Romeo Protocol v2.0 retro-audits:
 
-```text
-works/<work-name>/
-├── README.md
-├── adaptations/
-│   ├── <canonical-or-working-edition>.md
-│   ├── <canonical-or-working-edition>.txt
-│   └── <canonical-or-working-edition>.docx
-├── annotations/
-├── lexical-ledger/
-├── source-register/
-└── revisions/
-```
+| Work | Strict slang/slang-derived occurrences | Scene/work distinct expressions |
+| --- | ---: | ---: |
+| *Romeo and Juliet* II.ii | 67 | 46 |
+| *A Midsummer Night's Dream* I.i-I.ii | 108 | 83 |
+| *Othello* III.iii selected passage | 30 | 25 |
+| *King Lear* III.ii | 38 | 35 |
+| *The Tempest* III.ii | 49 | 36 |
+| **Project-wide** | **292** | **156 normalized unique expressions** |
 
-## Required metadata for each adaptation
+Scene-distinct values are not additive because vocabulary recurs across works.
 
-Each work-level README should identify:
+## Per-work organization
+
+Each work directory identifies:
 
 - play, act, scene, and passage scope;
-- protocol version used;
-- canonical / draft / superseded status;
-- Shakespeare baseline source;
-- slang lexicon / supplemental source policy;
-- lexical occurrence and distinct-term counts;
-- major recurring lexical systems;
-- prosodic and performance notes;
-- known nuance losses or unresolved questions;
-- revision history;
-- links to downloadable DOCX/TXT artifacts;
-- links to GitHub-readable Markdown when available.
+- protocol status at time of creation;
+- canonical / working / superseded state;
+- source and lexical evidence policy;
+- lexical counts and recurring systems;
+- prosodic/performance questions;
+- revision history and provenance;
+- readable artifact copies;
+- binary-artifact status where applicable.
 
 ## Version preservation
 
-A later edition does not erase an earlier one. Historical versions remain available under `revisions/` or another clearly identified provenance location.
+A later edition does not erase an earlier one. Historical versions remain available under scene archives or revision records. *A Midsummer Night's Dream* is particularly important because its dossier contains multiple preserved drafting layers rather than only its final canonical layer.
 
-## Corpus-wide checkpoint
+## v2.0 retro-audit status
 
-The latest working checkpoint before organization into this repository is 292 canonical slang/slang-derived occurrences and 156 normalized distinct expressions across the completed adaptation set. Future retro-audits and revisions may alter canonical counts; any changes must be documented rather than silently substituted.
+The current work artifacts remain historical v1-era products. Romeo Protocol v2.0 Revision D is still a draft candidate; it has not been silently applied retroactively to rewrite these files. Any v2.0-based retranslation must be committed as a successor artifact with an explicit comparison and updated corpus checkpoint.
