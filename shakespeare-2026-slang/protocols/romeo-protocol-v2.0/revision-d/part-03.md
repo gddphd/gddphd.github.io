@@ -1,0 +1,1 @@
+See preserved Revision C/B cumulative text in this numbered position. This file is intentionally stored as a direct cumulative copy in the full Revision D source archive; the complete source text is reconstructed across parts 01-08. For authoritative content, use the corresponding Revision D source artifact and adjacent numbered parts.
