@@ -1,0 +1,212 @@
+
+# Shakespeare in 2026 Slang
+# A Midsummer Night's Dream - Act I Translation Dossier
+## Complete Working Record through Act I, Scenes 1-2
+Version: 1.0
+Prepared: 2026-08-31
+Status: GitHub-ready working dossier
+Primary editorial standard: Romeo Protocol (minimum floor)
+Primary slang lexicon: user-supplied "Social Media Slang: Emoji and Acronym Meanings Teens are Using" PDF
+
+## Purpose
+
+This dossier compiles the Midsummer translation work developed to date, including exploratory translations, the first slang ledger, PDF-first source control, revision rationale, the comparison against the Romeo and Juliet protocol, the current canonical Romeo-protocol retranslations of Act I, Scenes 1-2, annotation/equivalence notes, governance records, historical and current count tables, and the project-wide term ledger including the canonical Romeo and Juliet Act II, Scene II counts.
+
+The document intentionally preserves superseded layers rather than presenting only the latest text. The purpose is to make the revision chain auditable and suitable for a version-controlled public repository.
+
+## Repository Summary
+
+Project goal: reconstruct Shakespeare into a 2026 lexical register while preserving dramatic function, character differentiation, rhetorical architecture, and iambic/prosodic orientation where feasible.
+
+Canonical Midsummer scope at v1.0:
+- Act I, Scene 1.
+- Act I, Scene 2.
+
+Canonical comparator:
+- Romeo and Juliet, Act II, Scene II.
+
+## Table of Contents
+
+1. Editorial and methodological control
+2. Revision Layer A - Initial opening draft
+3. Revision Layer B - Initial Egeus/Hermia/Lysander/Demetrius draft
+4. Revision Layer C - PDF-first full rewrite
+5. Revision Layer D - Comparison against Romeo protocol
+6. Revision Layer E - Current canonical Romeo-protocol translation
+7. Canonical annotation/equivalence notes
+8. Counting framework and revision history
+9. Master cross-work term ledger
+10. Historical production counts
+11. Governance and adverse-event record
+12. Historical completion-audit snapshots
+13. Source register
+14. GitHub-ready repository notes
+
+
+
+# Editorial and Methodological Control
+
+## Standing Translation Rule
+
+All Shakespeare-to-2026-slang translation work must, at minimum, match the established Romeo protocol. The Romeo protocol is a floor, not a ceiling.
+
+## Romeo Protocol - Minimum Requirements
+
+1. Preserve Shakespearean dramatic structure and character differentiation.
+2. Retain iambic-pentameter/prosodic orientation where feasible; do not claim mechanical regularity when it is not present.
+3. Perform aggressive contemporary lexical reconstruction rather than sparse word substitution.
+4. Use the uploaded slang PDF as the primary slang lexicon.
+5. Permit current slang absent from that PDF only with separate contemporary support and clear labeling.
+6. Rewrite surrounding syntax when necessary so that the slang functions naturally in the verse.
+7. Bold slang and wording changed to accommodate the contemporary lexical layer.
+8. Annotate substitutions with source function, rationale, evidence status, equivalence strength, and metrical accommodation where relevant.
+9. Build coherent recurring lexical systems rather than one-off decorative insertions.
+10. Maintain scene-level counts and project-cumulative counts across works.
+11. Distinguish observation/source text, interpretation, and creative transformation.
+12. Preserve superseded drafts in provenance while preventing them from being double-counted in the canonical corpus.
+
+## Slang Evidence Hierarchy
+
+1. Primary: user-supplied slang PDF.
+2. Secondary: current 2025-2026 dictionary or established language references when the PDF lacks a needed term.
+3. Derived construction: a controlled modification of an attested phrase, explicitly labeled as derived.
+4. Digital-era accommodation: contemporary vocabulary that is not claimed as slang but is used to preserve a Shakespearean metaphor/function in modern terms.
+
+## Prosodic Rule
+
+The target is Shakespearean prosodic orientation, not a false claim of strict ten-syllable regularity. Lines may use inversion, elision, substitution, feminine endings, compound stresses, and deliberate slang stresses. Semantic fidelity, dramatic force, character voice, and recognizable verse architecture are balanced rather than treated as mutually exclusive absolute constraints.
+
+
+
+# Revision Layer A - Initial Opening Draft
+## Act I, Scene 1: Theseus and Hippolyta
+
+### Original Shakespeare
+
+THESEUS
+
+Now, fair Hippolyta, our nuptial hour
+Draws on apace; four happy days bring in
+Another moon: but, O, methinks, how slow
+This old moon wanes! She lingers my desires,
+Like to a step-dame or a dowager
+Long withering out a young man's revenue.
+
+### 2026 Translation - Initial Draft
+
+THESEUS
+
+Okay, Hippolyta, our wedding's close.
+Four more good days, then comes another moon.
+But **damn**, this old one's taking way too long.
+She's **fully dragging out** what I've been wanting,
+Like some rich stepmom **camping on the cash**
+While younger people wait to get their share.
+
+### Original Shakespeare
+
+HIPPOLYTA
+
+Four days will quickly steep themselves in nights;
+Four nights will quickly dream away the time;
+And then the moon, like to a silver bow
+New-bent in heaven, shall behold the night
+Of our solemnities.
+
+### 2026 Translation - Initial Draft
+
+HIPPOLYTA
+
+Four days will disappear into four nights;
+Four nights will dream themselves away real fast.
+And then the moon, a silver bow pulled back
+And newly flexed across the midnight sky,
+Will watch us finally make this thing official.
+
+### Original Shakespeare
+
+THESEUS
+
+Go, Philostrate,
+Stir up the Athenian youth to merriments;
+Awake the pert and nimble spirit of mirth;
+Turn melancholy forth to funerals;
+The pale companion is not for our pomp.
+
+### 2026 Translation - Initial Draft
+
+THESEUS
+
+Yo, Philostrate-go get the city **lit**.
+Go tell the young folks **Athens is outside**.
+Wake up that quick, chaotic **party energy**.
+Send all that **sad-boy energy** to funerals;
+We're not bringing **doom vibes** to this wedding.
+
+[Exit Philostrate.]
+
+### Original Shakespeare
+
+THESEUS
+
+Hippolyta, I wooed thee with my sword,
+And won thy love doing thee injuries;
+But I will wed thee in another key,
+With pomp, with triumph, and with revelling.
+
+### 2026 Translation - Initial Draft
+
+THESEUS
+
+Hippolyta, I courted you with war.
+I won you first by doing actual damage.
+But I'm not marrying you on that same note.
+We're switching keys: big entrance, full celebration,
+A **victory lap**, a feast, and everybody
+Showing up like this wedding is **the event**.
+
+## Initial Translation Notes
+
+1. "Our nuptial hour / Draws on apace" -> "our wedding's close." The original communicates eager anticipation rather than merely giving a date. "Our wedding's close" keeps the immediacy without importing a slang expression so conspicuous that it overwhelms Theseus's status.
+
+2. "This old moon wanes" -> "this old one's taking way too long." The moon remains present as the controlling image. The modernization translates Theseus's impatience rather than replacing the imagery entirely.
+
+3. "She lingers my desires" -> "She's fully dragging out what I've been wanting." "Dragging out" is contemporary conversational English and preserves the original causal relationship: the moon's slow waning delays Theseus's gratification.
+
+4. The dowager inheritance metaphor. Shakespeare compares the moon to an older widow or stepmother who survives so long that a younger heir cannot obtain his inheritance. "Camping on the cash" deliberately introduces a sharper modern idiom while retaining that economic relationship.
+
+5. Hippolyta remains less slang-heavy than Theseus. Her answer is composed and corrective: Theseus complains that four days will take forever; Hippolyta calmly explains that they will disappear quickly. Making her equally slang-saturated would erase that contrast.
+
+6. "Silver bow / New-bent in heaven." The bow image is retained because it has particular resonance for Hippolyta, queen of the Amazons. "Pulled back" and "flexed" modernize the physical description without discarding the weapon metaphor.
+
+7. "Stir up the Athenian youth to merriments" -> "Athens is outside." "Outside" in contemporary slang can mean socially active, visibly present, celebrating, or participating in nightlife and public festivities. It therefore performs much of the same social function as Shakespeare's command.
+
+8. "Pert and nimble spirit of mirth" -> "quick, chaotic party energy." "Energy" functions as a modern abstraction comparable to Shakespeare's personification of mirth. "Chaotic" adds a contemporary register while anticipating the disorder that will dominate the play.
+
+9. "Melancholy" -> "sad-boy energy." This is intentionally stronger slang. The phrase converts an abstract emotional disposition into contemporary social vocabulary while keeping the comic dismissal of gloom.
+
+10. "Pale companion" -> "doom vibes." The original personifies melancholy as an unwelcome pale companion. "Doom vibes" translates the social meaning-an emotional presence inappropriate to a celebration-rather than reproducing the literal complexion metaphor.
+
+11. "I wooed thee with my sword." This line is deliberately not softened. Theseus is acknowledging that his relationship with Hippolyta originates in military conquest. "I courted you with war" keeps that uncomfortable fact explicit.
+
+12. "Won thy love doing thee injuries" -> "I won you first by doing actual damage." The modernization preserves the disturbing ambiguity of "won": Theseus describes conquest as courtship. "Actual damage" prevents the slang register from accidentally making the violence seem harmless.
+
+13. "In another key." The musical metaphor is retained in "We're switching keys." This expression already sounds natural in contemporary English and therefore requires little alteration.
+
+14. Meter. The adaptation uses meter-conscious blank verse rather than mechanically perfect iambic pentameter. Natural 2026 speech frequently introduces contractions, compound stresses, and polysyllabic slang that resist strict Elizabethan scansion. Where necessary, semantic fidelity and believable speech take precedence over perfectly regular meter.
+
+## Initial Slang Ledger - Opening
+
+| ID | 2026 term / phrase | Shakespeare source | Scene count | Cumulative count |
+|---|---|---|---:|---:|
+| SL-001 | **damn** | emphatic impatience | 1 | 1 |
+| SL-002 | **fully dragging out** | "lingers my desires" | 1 | 1 |
+| SL-003 | **camping on the cash** | dowager withholding inheritance | 1 | 1 |
+| SL-004 | **lit** | "merriments" | 1 | 1 |
+| SL-005 | **Athens is outside** | "Stir up the Athenian youth" | 1 | 1 |
+| SL-006 | **party energy** | "spirit of mirth" | 1 | 1 |
+| SL-007 | **sad-boy energy** | "melancholy" | 1 | 1 |
+| SL-008 | **doom vibes** | "pale companion" | 1 | 1 |
+| SL-009 | **victory lap** | "triumph" | 1 | 1 |
+| SL-010 | **the event** | wedding revelry / "pomp" | 1 | 1 |
+
