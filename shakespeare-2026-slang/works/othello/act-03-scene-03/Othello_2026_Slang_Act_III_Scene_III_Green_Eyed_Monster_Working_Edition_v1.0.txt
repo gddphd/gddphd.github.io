@@ -1,0 +1,468 @@
+# Shakespeare in 2026 Slang
+## Othello, Act III, Scene III
+### The "Green-Eyed Monster" Passage
+### Romeo-Protocol Working Edition v1.0
+
+Prepared: 2026-08-31
+Status: Working canonical Othello draft for GitHub upload
+Project: Shakespeare-to-2026-Slang Translation Corpus
+Editorial floor: Romeo Protocol
+License status: Not yet selected by the user. No license is asserted by this document.
+
+======================================================================
+1. REPOSITORY / RELEASE METADATA
+======================================================================
+
+Suggested repository path:
+shakespeare-2026-slang/othello/act-03-scene-03/
+
+Suggested filenames:
+- Othello_2026_Slang_Act_III_Scene_III_Green_Eyed_Monster_Working_Edition_v1.0.docx
+- Othello_2026_Slang_Act_III_Scene_III_Green_Eyed_Monster_Working_Edition_v1.0.txt
+
+Suggested status label:
+WORKING EDITION - NOT YET FINAL RELEASE
+
+Suggested provenance fields:
+Work: Othello
+Act: III
+Scene: III
+Selected passage: central jealousy / "green-eyed monster" exchange
+Adaptation layer: 2026 slang / digital-era lexicon
+Prosodic target: Shakespearean / iambic-pentameter orientation where feasible
+Primary Shakespeare baseline: Folger Shakespeare Library, Othello, Act 3, Scene 3
+Primary slang lexicon: user-supplied PDF, "Social Media Slang: Emoji and Acronym Meanings Teens are Using"
+Supplemental lexical authority: Romeo-protocol precedent permits separately corroborated 2025-2026 slang where the PDF does not contain a needed term
+Canonical status: First Othello pass under the Romeo Protocol
+Superseded Othello drafts: None identified before this pass
+
+======================================================================
+2. CONTROLLING EDITORIAL PROTOCOL - ROMEO PROTOCOL
+======================================================================
+
+All Shakespeare-to-2026-slang translations in this project must, at minimum, match the Romeo and Juliet protocol.
+
+The controlling requirements are:
+
+1. Preserve Shakespeare's dramatic sequence, character relationships, argumentative structure, and recognizable rhetorical architecture.
+2. Maintain an iambic-pentameter / Shakespearean prosodic orientation where feasible; do not falsely claim mechanical ten-syllable regularity where the line does not sustain it.
+3. Use aggressive contemporary lexical reconstruction rather than sparse slang insertion.
+4. Use the user-supplied slang PDF as the primary slang lexicon.
+5. Permit separately corroborated contemporary slang when the PDF does not contain a needed term, but label that evidentiary status clearly.
+6. Allow surrounding syntax to be rewritten when necessary so slang feels structurally integrated rather than pasted into archaic prose.
+7. Bold slang and wording materially rewritten to accommodate the contemporary lexical layer.
+8. Annotate each major lexical intervention by:
+   - Shakespearean source/function,
+   - 2026 replacement,
+   - semantic rationale,
+   - equivalence strength,
+   - source status,
+   - metrical/prosodic accommodation where relevant.
+9. Maintain coherent recurring lexical systems across scenes and works.
+10. Maintain scene-level and cumulative project-wide counts.
+11. Preserve revision history and superseded versions rather than silently erasing them.
+12. Distinguish slang, slang-derived variants, supplemental contemporary slang, and non-slang digital-era accommodation.
+
+This protocol is a floor, not a ceiling.
+
+======================================================================
+3. SOURCE AND EVIDENCE REGISTER
+======================================================================
+
+A. SHAKESPEARE BASE TEXT
+Folger Shakespeare Library.
+Othello, Act 3, Scene 3.
+Reference URL:
+https://www.folger.edu/explore/shakespeares-works/othello/read/3/3/
+
+Use in this edition:
+- establishes speaker order,
+- preserves the dramatic progression from Iago's withholding to the jealousy warning,
+- preserves Othello's evidence-demanding response,
+- preserves the reputation / jealousy / proof thematic structure.
+
+B. PRIMARY SLANG LEXICON
+User-supplied PDF:
+"Social Media Slang: Emoji and Acronym Meanings Teens are Using."
+
+Use in this edition:
+- primary authority for contemporary slang selection,
+- principal reference for meanings including clout, fact-check, hard block, hard delete, doomscrolling, sus, receipts, allegedly, toxic, delulu, and related terms.
+
+C. SUPPLEMENTAL CONTEMPORARY USAGE
+The Romeo Protocol permits selected slang absent from the uploaded glossary when separately supported.
+Any such use must be labeled supplemental rather than presented as directly PDF-attested.
+
+D. EVIDENCE-GATING RULE
+A lexical replacement may be:
+- Strong equivalence: close semantic / pragmatic correspondence.
+- Moderate equivalence: defensible metaphorical or functional correspondence.
+- Loose / creative accommodation: primarily rhetorical, prosodic, digital-era, or comic transformation.
+No category is to be represented as more exact than the evidence supports.
+
+======================================================================
+4. EDITORIAL SCOPE OF THIS OTHELLO PASS
+======================================================================
+
+This working edition translates the famous central jealousy exchange in Act III, Scene III.
+
+The adapted sequence includes:
+- Iago's claim that reputation is valuable.
+- Othello's demand that Iago speak plainly.
+- Iago's warning about jealousy and the "green-eyed monster."
+- The misery of uncertain suspicion.
+- Othello's insistence that he will not live by mere suspicion.
+- Othello's stated requirement to see before doubting and demand proof once doubt arises.
+- Iago's continued insinuation while withholding proof.
+
+The purpose of this pass is not to modernize every line in the full scene. It creates a canonical Romeo-protocol adaptation of this famous unit for later expansion.
+
+======================================================================
+5. OTHELLO, ACT III, SCENE III
+2026 LEXICAL LAYER / SHAKESPEAREAN PROSODY
+======================================================================
+
+OTHELLO
+
+What mean'st thou? **Be for real** and speak it plain.
+
+IAGO
+
+Good name in man and woman, noble lord,
+Is social capital—their **clout**, their trust.
+Who steals my purse steals trash; cash comes and goes.
+But steal my name, and thou hast **hard-deleted**
+What profits thee no whit, yet ruins me.
+
+OTHELLO
+
+By heaven, I will **fact-check** every thought.
+
+IAGO
+
+You cannot, were my heart within your hand;
+Nor shall I **lore dump** what I keep in mine.
+
+OTHELLO
+
+Ha?
+
+IAGO
+
+O, **vibe check**, my lord: beware of jealousy!
+The green-eyed monster is a **toxic** feed
+That **gaslights** what it eats, then feeds again.
+The man who knows betrayal may **hard block**
+The love that wronged him and at least know peace;
+But damned are minutes in a **doomscrolling** loop,
+Still **down bad**, still doubting, everything looks **sus**,
+Still loving hard the one he half suspects.
+
+OTHELLO
+
+O misery!
+
+IAGO
+
+Poor and content is rich, and rich enough;
+But endless wealth feels winter-poor to him
+Who fears each hour that everything may vanish.
+Good God defend us from that **toxic** state!
+
+OTHELLO
+
+Why, why is this? Think'st thou I'd make doubt
+My **main quest**, moon by moon, with fresh **sus** threads?
+No. One real doubt and I **fact-check** the claim.
+Trade me for some goat—not **GOAT**, a goat—
+The day I build my soul on **unverified** smoke
+That matches only **source: trust me bro**.
+
+To say my wife is **fire**, loves company,
+Speaks freely, sings and dances—none is **sus**.
+Where virtue lives, those traits are **green flags**.
+Nor will I call my worth a **skill issue**
+And fear she'll switch; she had her eyes and chose me.
+
+I'll **clock** before I doubt; when doubt arrives,
+Bring **receipts or it didn't happen**. Then,
+Upon the proof, there is no middle state:
+Either my love—or jealousy—gets **hard-deleted**.
+
+IAGO
+
+I am glad of this. Then I can speak more freely,
+But mark me: what I say is still **allegedly**.
+I am not dropping **receipts** yet. Watch your wife;
+Observe her well with Cassio. Keep your eyes
+Neither **delulu** nor asleep to **red flags**.
+
+======================================================================
+6. LEXICAL ANNOTATION REGISTER
+======================================================================
+
+| ID | 2026 intervention | Shakespearean function | Classification | Evidence / rationale |
+| --- | --- | --- | --- | --- |
+| OTH-001 | **Be for real** | Othello orders Iago to speak plainly and sincerely. | Strong pragmatic equivalence | Contemporary demand for seriousness / honesty. Functions as a direct discourse-marker modernization. |
+| OTH-002 | **clout** | Iago's "good name" / reputation. | Moderate-to-strong equivalence | Clout means influence or social capital. It closely fits reputation's social value, though Shakespeare's "good name" also carries moral honor beyond social capital. |
+| OTH-003 | **hard-deleted / hard-deleted** | Reputation destroyed; later either love or jealousy must be eliminated. | Strong digital-functional analogy | Hard delete denotes permanent removal. Reuse establishes a coherent deletion lexical system. |
+| OTH-004 | **fact-check** | Othello insists suspicion must be tested against evidence. | Strong functional equivalence | Fact-checking maps directly onto verification of claims. Repetition reinforces Othello's stated epistemic standard. |
+| OTH-005 | **lore dump** | Iago refuses to disclose what he claims to know. | Moderate pragmatic equivalence | Lore dump means a large disclosure of backstory/information. Used negatively here: Iago refuses the disclosure Othello demands. |
+| OTH-006 | **vibe check** | Iago pivots from withholding to warning Othello about jealousy. | Moderate pragmatic equivalence | Vibe check denotes assessing atmosphere or behavior. It modernizes Iago's diagnostic pose. |
+| OTH-007 | **toxic** | Jealousy as harmful, corrosive state. | Strong pragmatic equivalence | Toxic denotes harmful negative behavior/state. The term retains the destructive moral-psychological force of jealousy. |
+| OTH-008 | **gaslights** | Jealousy distorts perception and feeds on its own distortions. | Moderate metaphorical equivalence | Gaslighting concerns manipulation of perceived reality. Here jealousy itself is personified as the agent of perceptual distortion. |
+| OTH-009 | **hard block** | Known betrayal may permit decisive severance. | Moderate-to-strong digital analogy | Hard block means complete blocking. It translates decisive termination of a harmful relationship into digital exclusion language. |
+| OTH-010 | **doomscrolling** | "What damned minutes tells he o'er" / repetitive jealous rumination. | Strong psychological metaphor | Doomscrolling describes endless negative-information consumption. It maps well onto repetitive, self-reinforcing rumination while changing the original imagery. |
+| OTH-011 | **down bad** | Lover remains emotionally attached while suffering suspicion. | Moderate pragmatic equivalence | Down bad denotes desperate/lovesick attachment. Fits the persistence of desire despite jealousy. |
+| OTH-012 | **sus** | Suspicion, doubt, questionable appearances. | Strong lexical equivalence | Sus directly means suspicious/questionable. Repetition forms the scene's compact suspicion marker. |
+| OTH-013 | **main quest** | Othello rejects making jealousy/doubt his central preoccupation. | Strong metaphorical equivalence | Main quest denotes a primary life goal/task. Othello insists doubt will not become his organizing purpose. |
+| OTH-014 | **GOAT** | Shakespeare's literal "Exchange me for a goat." | Creative wordplay / accommodation | The acronym GOAT ("greatest of all time") collides with Shakespeare's literal animal. "Not GOAT, a goat" preserves the animal while creating a deliberate 2026 joke. |
+| OTH-015 | **unverified** | Othello rejects unsupported suspicion. | Strong epistemic modernization | Unverified marks a claim lacking confirmation. It preserves Othello's refusal to treat conjecture as proof. |
+| OTH-016 | **source: trust me bro** | Unsupported insinuation posing as knowledge. | Strong epistemic/comic analogy | A joking phrase for an unreliable citation. It makes Iago's evidentiary weakness explicit in contemporary information-literacy language. |
+| OTH-017 | **fire** | Desdemona is attractive/lively/sociable. | Moderate evaluative equivalence | Fire signals excellence / attractiveness / excitement. It modernizes positive valuation without itself proving infidelity. |
+| OTH-018 | **green flags** | Othello treats Desdemona's traits as compatible with virtue. | Strong relationship-language equivalence | Green flags are positive relationship indicators. The term preserves Othello's argument that these traits are not incriminating. |
+| OTH-019 | **skill issue** | Othello rejects construing his own worth as the reason Desdemona might leave him. | Moderate comic metaphor | Skill issue assigns failure to lack of ability. Othello rejects that self-deprecating frame. |
+| OTH-020 | **clock** | "I'll see before I doubt." | Strong colloquial analogue | Clock means notice/recognize. Carried forward from the Romeo lexical system to preserve cross-work consistency. |
+| OTH-021 | **receipts or it didn't happen** | Othello demands proof before acting. | Strong functional equivalence | The phrase directly demands evidence for a claim, closely matching the scene's proof standard. |
+| OTH-022 | **allegedly** | Iago presents insinuation as not yet proved. | Strong epistemic equivalence | Allegedly flags an unconfirmed claim, highlighting the gap between insinuation and proof. |
+| OTH-023 | **receipts** | Documentary/evidentiary proof. | Strong functional equivalence | Receipts denotes evidence supporting an allegation. It forms a coherent evidence system with fact-check and unverified. |
+| OTH-024 | **delulu** | Iago pretends to warn Othello against irrational interpretation. | Moderate derived use | Delulu denotes delusional fantasy/optimism; here broadened to irrational interpretation. It is not a literal synonym for jealousy. |
+| OTH-025 | **red flags** | Iago encourages suspicious reading of Desdemona/Cassio. | Strong relationship-language equivalence | Red flags denote serious warning signs. The manipulation lies in Iago's attempt to make neutral conduct look incriminating. |
+
+======================================================================
+7. RECURRING LEXICAL SYSTEMS
+======================================================================
+
+A. EVIDENCE / VERIFICATION SYSTEM
+- **fact-check**
+- **receipts**
+- **receipts or it didn't happen**
+- **unverified**
+- **allegedly**
+- **source: trust me bro**
+
+Function:
+This system translates Othello's insistence on proof and Iago's exploitation of evidentiary ambiguity into contemporary information-literacy language.
+
+B. SUSPICION / PERCEPTION SYSTEM
+- **sus**
+- **vibe check**
+- **gaslights**
+- **delulu**
+- **red flags**
+- **green flags**
+
+Function:
+This system tracks the scene's central contest over perception: what should count as evidence, what merely feels suspicious, and how Iago converts ordinary conduct into warning signs.
+
+C. DIGITAL EXCLUSION / REMOVAL SYSTEM
+- **hard block**
+- **hard-deleted**
+
+Function:
+This system translates decisive severance and eradication into current digital-control vocabulary.
+
+D. ATTENTION / RUMINATION SYSTEM
+- **doomscrolling**
+- **main quest**
+- **down bad**
+
+Function:
+This system translates obsessive mental occupation and emotional attachment.
+
+======================================================================
+8. PROSODIC / METER NOTES
+======================================================================
+
+The adaptation follows the Romeo Protocol's prosodic principle:
+- orient toward five-beat Shakespearean movement,
+- preserve rhetorical architecture,
+- permit inversions, contractions, substitutions, feminine endings, shared lines, and deliberate slang stress,
+- do not falsely claim mechanical iambic pentameter where it is not sustained.
+
+Illustrative lines:
+
+What MEAN'ST | thou? BE | for REAL | and SPEAK | it PLAIN.
+
+By HEAV'N | I WILL | fact-CHECK | each THOUGHT.
+
+But DAMNED | are MIN | utes IN | a DOOM | scrolling LOOP.
+
+I'll CLOCK | before | I DOUBT; | when DOUBT | arrives.
+
+The slang often carries useful stress:
+- FACT-check
+- DOOM-scroll-ing
+- HARD block
+- GREEN flags
+- RED flags
+- MAIN quest
+
+The objective is prosodic plausibility and rhetorical energy, not mechanical syllable counting.
+
+======================================================================
+9. SCENE-LEVEL LEXICAL LEDGER
+======================================================================
+
+| Expression | Occurrences in this Othello passage |
+| --- | ---: |
+| **allegedly** | 1 |
+| **Be for real** | 1 |
+| **clock** | 1 |
+| **clout** | 1 |
+| **delulu** | 1 |
+| **doomscrolling** | 1 |
+| **down bad** | 1 |
+| **fact-check** | 2 |
+| **fire** | 1 |
+| **gaslights** | 1 |
+| **GOAT** | 1 |
+| **green flags** | 1 |
+| **hard block** | 1 |
+| **hard-deleted** | 2 |
+| **lore dump** | 1 |
+| **main quest** | 1 |
+| **receipts** | 1 |
+| **receipts or it didn't happen** | 1 |
+| **red flags** | 1 |
+| **skill issue** | 1 |
+| **source: trust me bro** | 1 |
+| **sus** | 3 |
+| **toxic** | 2 |
+| **unverified** | 1 |
+| **vibe check** | 1 |
+| TOTAL SLANG / SLANG-DERIVED OCCURRENCES | 30 |
+| DISTINCT NORMALIZED EXPRESSIONS | 25 |
+
+======================================================================
+10. CROSS-WORK PROJECT COUNT UPDATE
+======================================================================
+
+Canonical project immediately before this Othello passage:
+- 175 slang/slang-derived occurrences
+- 114 normalized distinct expressions under the corrected case-normalized counting rule
+
+Othello Act III, Scene III passage:
+- 30 slang/slang-derived occurrences
+- 25 distinct normalized expressions
+- 16 expressions new to the canonical project
+
+Updated canonical project:
+- 205 slang/slang-derived occurrences
+- 130 normalized distinct expressions
+
+| Work / scene | Slang-term occurrences | Distinct normalized expressions |
+| --- | ---: | ---: |
+| Romeo and Juliet II.ii | 67 | 46 |
+| A Midsummer Night's Dream I.i | 74 | 62 |
+| A Midsummer Night's Dream I.ii | 34 | 31 |
+| Midsummer I.i-I.ii combined | 108 | 83 unique across both scenes |
+| Canonical project before Othello | 175 | 114 unique project-wide |
+| Othello III.iii selected passage | 30 | 25 |
+| CANONICAL PROJECT AFTER OTHELLO | 205 | 130 unique project-wide |
+
+Counting rules:
+1. One occurrence equals one use of a tracked slang/slang-derived expression.
+2. Case-only variants are normalized together for distinct-expression counts.
+3. Inflectional variants may be retained separately in exact-form research tables but can also be grouped into term families.
+4. Pure digital-era accommodation is not counted as slang unless independently classified as slang/slang-derived.
+5. Superseded drafts remain in provenance history but are excluded from canonical corpus totals to avoid double counting.
+
+======================================================================
+11. REVISION HISTORY
+======================================================================
+
+Version 0.x - No earlier Othello canonical artifact identified.
+Status: none.
+
+Version 1.0 - 2026-08-31
+- Selected the famous Act III, Scene III jealousy exchange.
+- Applied Romeo Protocol as the minimum editorial standard.
+- Created aggressive 2026 lexical reconstruction.
+- Established evidence/verification, suspicion/perception, digital exclusion, and rumination lexical systems.
+- Added annotation register.
+- Added prosodic assessment.
+- Added scene-level lexical counts.
+- Updated cross-work cumulative counts.
+- Preserved distinction between PDF-attested slang, supplemental contemporary slang, slang-derived accommodation, and digital-era accommodation.
+- Prepared DOCX and TXT editions for GitHub upload.
+
+Canonical status:
+Version 1.0 is the current working Othello edition until explicitly superseded by a later version.
+
+======================================================================
+12. GOVERNANCE / QUALITY CONTROL RECORD
+======================================================================
+
+Operating branch:
+Shakespeare modernization / 2026 slang corpus.
+
+Controlling minimum:
+Romeo Protocol.
+
+Governance mode:
+Mode 45 configuration previously authorized for the Shakespeare translation branch.
+
+Key controls applied:
+- preservation of dramatic sequence,
+- evidence-gated slang classification,
+- uploaded-PDF-first slang sourcing,
+- explicit labeling of metaphorical/creative accommodation,
+- prosodic honesty,
+- cumulative ledger maintenance,
+- revision preservation,
+- no silent deletion of earlier versions,
+- no silent license selection.
+
+Known prior project accounting events:
+AE-2026-08-31-01:
+Earlier Shakespeare translation content was produced before visible governance preflight. Corrective controls were established.
+
+AE-2026-08-31-02:
+Prior cumulative ledger conflated slang occurrences, distinct exact terms, and accommodation-only interventions. Counting categories were separated.
+
+AE-2026-08-31-03:
+Prior distinct-expression totals inconsistently treated capitalization variants as separate expressions. Case-normalized distinct counts were corrected.
+
+Othello v1.0 adverse-event status:
+No new substantive adverse event identified during this Othello pass.
+
+======================================================================
+13. GITHUB PUBLICATION NOTES
+======================================================================
+
+This artifact is structured for repository use but does not itself perform publication.
+
+Recommended companion repository files:
+- README.md
+- CHANGELOG.md
+- PROVENANCE.md
+- SOURCE_REGISTER.md or SOURCE_REGISTER.csv
+- LEXICAL_LEDGER.csv
+- AI_DISCLOSURE.md
+- CITATION.cff
+- LICENSE (only after the user selects/authorizes a license)
+
+Recommended Git commit message:
+Add Othello III.iii 2026 slang working edition v1.0
+
+Recommended release note:
+Adds the first Romeo-protocol Othello adaptation: Act III, Scene III's green-eyed-monster / jealousy passage, including annotation register, prosodic notes, lexical systems, scene counts, and updated project-wide corpus totals.
+
+Important licensing note:
+Shakespeare's underlying text is public domain in the United States, but this project's original adaptation, annotations, editorial arrangement, and generated artifacts should receive an explicit license only after the repository owner chooses one. This document intentionally does not select a license.
+
+======================================================================
+14. FUTURE WORK / NEXT PASS
+======================================================================
+
+Logical continuation within Othello III.iii:
+- expand to the "ocular proof" sequence,
+- strengthen the evidence/manipulation lexical system,
+- track Iago's manufactured evidence separately from Othello's epistemic standards,
+- evaluate whether terms such as "receipts," "proof," "unverified," "sus," and "gaslight" should form term families,
+- run another meter-oriented pass before final publication,
+- add line-level Shakespeare baseline references if a scholarly apparatus is desired,
+- update the cumulative lexical ledger after each expansion.
+
+END OF WORKING EDITION
