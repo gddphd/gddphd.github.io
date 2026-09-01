@@ -243,11 +243,3 @@ If a reader knew only the contemporary translation, could that reader reconstruc
 If the answer is materially no, the passage must be revised or the loss explicitly justified.
 
 ## 12. Nuance Loss Register
-
-Known losses are documented rather than hidden. Record at minimum:
-
-| Original feature | Modern treatment | Residual loss |
-| --- | --- | --- |
-| Mythological reference | Modern cultural analogue | Classical association may be reduced |
-| Sexual pun | Modern double entendre | Some lexical/anatomical ambiguity may be lost |
-| Feudal title distinction | Social-status vocabulary | Historical hierarchy may be compressed |
