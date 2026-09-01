@@ -1,0 +1,121 @@
+This document is a v2.0 draft candidate. Its creation does not itself erase or invalidate prior artifacts. Existing Romeo-protocol translations remain valid historical products under the version in force when created.
+If the user later authorizes v2.0 as controlling, future translations should use the entire v2.0 protocol, and older scenes may be retro-audited without silently rewriting their historical versions.
+Any v2.1 or later successor should be cumulative by default and preserve the complete v2.0 content unless the user explicitly authorizes identified deletion, replacement, consolidation, or deprecation.
+27. Change Register: v1 Baseline -> v2.0 Draft
+28. Draft Completion Statement
+This draft preserves the previously documented Romeo Protocol baseline and incorporates the full set of Nuance-Fidelity improvements proposed on 2026-08-31. No baseline requirement is intentionally deleted. Adoption remains subject to explicit user authorization.
+Field | Value
+Document status | Draft candidate. Generated at the user's request as v2.0. Adoption as the controlling protocol is a separate user-authorization decision.
+Version architecture | Cumulative/additive. The v1.x controlling requirements are preserved verbatim below and are not replaced, condensed, or silently deprecated.
+Project scope | Shakespeare-to-2026-slang adaptations and any later historical-text adaptations explicitly placed under this protocol.
+Primary editorial objective | Reconstruct dramatic, rhetorical, emotional, figurative, and prosodic functions inside a defensible contemporary linguistic system, using slang as one instrument rather than the sole objective.
+Layer | Required question
+Denotative meaning | What is literally being said?
+Speech act | What is the speaker doing with the utterance: threatening, seducing, deflecting, commanding, flattering, lying, pleading, mocking, testing, bargaining, consoling, etc.?
+Emotional state | What is the speaker feeling, suppressing, or performing?
+Power relationship | Who has authority, leverage, dependency, or vulnerability?
+Subtext | What is communicated without being stated directly?
+Rhetorical function | What argumentative or dramatic job does the line perform?
+Figurative structure | What metaphor, symbol, or image carries the thought?
+Ambiguity | Does the original deliberately support multiple meanings?
+Dramatic irony | What does the audience know that the speaker does not?
+Prosody | How do meter, stress, pause, rhyme, repetition, and sound contribute?
+Character voice | Would this speaker plausibly use the proposed modern vocabulary?
+Plot consequence | What later action or inference depends on the precise force of this line?
+Original image family | Possible modern family | Editorial principle
+Gardening / ripening | Cooking / development | Preserve growth, maturation, and outcome relationships.
+Navigation | GPS / routing | Preserve direction, error, destination, and agency.
+Disease | Viral / contamination | Preserve spread, infection, vulnerability, and cure logic.
+Clothing / livery | Drip / aesthetic | Preserve dress, identity, rank, and appearance.
+Warfare | Gaming / combat | Preserve opposition, attack, defense, victory, and defeat.
+Reputation | Social-platform status | Preserve recognition, influence, damage, and public judgment.
+Character | Slang density | Register | Preferred semantic fields
+Romeo | High | lyrical / earnest | relationship, aesthetic, digital identity
+Juliet | Medium-high | intelligent / direct | commitment, truth, privacy, identity
+Iago | Medium | controlled / manipulative | evidence, suspicion, information
+Othello | Medium | formal / declarative | proof, honor, judgment
+Lear | Medium | elevated / explosive | destruction, systems failure, status
+Fool | Very high | comic / satirical | memes, economics, platform behavior
+Caliban | Variable | earthy -> lyrical | grievance, power, sensory language
+Stephano | High | drunken / boastful | gaming, status, social slang
+Ariel | Low | precise / uncanny | audio, invisibility, information
+Dimension | Score range | Interpretive target
+Semantic fidelity | 0-5 | Literal/propositional correspondence
+Dramatic-function fidelity | 0-5 | Preservation of scene function
+Character-voice fidelity | 0-5 | Fit to speaker idiolect
+Figurative fidelity | 0-5 | Preservation of metaphor/image logic
+Rhetorical fidelity | 0-5 | Preservation of formal rhetorical action
+Prosodic fidelity | 0-5 | Stress, rhythm, sound, meter, performability
+Contemporary authenticity | 0-5 | Plausible current usage
+Ambiguity preservation | 0-5 | Retention of meaningful multiplicity
+Original feature | Modern treatment | Residual loss
+Mythological reference | Modern cultural analogue | Classical association may be reduced
+Sexual pun | Modern double entendre | Some lexical/anatomical ambiguity may be lost
+Feudal title distinction | Social-status vocabulary | Historical hierarchy may be compressed
+Theological implication | Retain / gloss / analogize | Document any doctrinal narrowing
+Legal-historical term | Modern legal metaphor | Technical historical nuance may be reduced
+Class | Meaning | Examples / treatment
+A | Broadly established contemporary vernacular | ghost, red flag, receipts, vibe
+B | Strongly current but potentially generational | delulu, rizz, cooked
+C | Highly moment-specific / meme-dependent | Use deliberately; flag for future historical note
+D | Project-derived construction | nun-core, we ride at moonrise
+Performance property | Required question
+Breath | Can an actor speak the line naturally?
+Stress | Do slang words fall on useful beats?
+Pace | Does rhythm accelerate or slow appropriately?
+Punch line | Does comic timing land correctly?
+Emotional turn | Can an actor feel the beat change?
+Interruption | Does dialogue retain stage timing and overlap potential?
+Memorability | Does the line have a repeatable verbal shape?
+Level | Treatment
+M0 | Essentially Shakespeare intact
+M1 | Minimal lexical modernization
+M2 | Selected contemporary substitutions
+M3 | Romeo-standard integrated modernization
+M4 | Aggressive slang reconstruction
+M5 | Experimental / high-density transformation
+Treatment | Meaning
+Retain | Keep the original reference intact.
+Gloss | Retain and explain.
+Modernize | Replace with a contemporary reference of similar function.
+Analogize | Use a functional modern analogy while preserving the original in annotation.
+Hybridize | Keep the original reference and add a modern conceptual layer.
+Audit item | Example status
+Plot fidelity | Pass / partial / fail
+Character differentiation | Pass / partial / fail
+Speech-act fidelity | Pass / partial / fail
+Power/coercion fidelity | Pass / partial / not applicable
+Dramatic irony preserved | Pass / partial / not applicable
+Major metaphor chains preserved | Pass / partial
+Ambiguities preserved | Count or qualitative result
+Rhetorical figures retained | Count or qualitative result
+Prosodic target | Strong / moderate / weak
+Slang source verification | Pass / exceptions documented
+Slang half-life risk | Low / moderate / high
+Iconic lines intentionally preserved | Count / list
+Known nuance losses | Count / register reference
+Back-translation test | Pass / revise
+Performance test | Pass / revise
+Modernization intensity | M0-M5 by beat or passage
+Change class | v2.0 addition | Effect
+Preserved | Original 12 controlling requirements | No deletion; remain mandatory baseline.
+Added | Nuance Fidelity Stack | Makes meaning analysis multilayered.
+Added | Speech-act classification | Preserves what characters do with language.
+Added | Ambiguity preservation | Reduces premature interpretive narrowing.
+Added | Metaphor-chain preservation | Protects sustained figurative architecture.
+Added | Character idiolect matrix | Improves speaker differentiation and cross-play applicability.
+Added | Rhetorical-figure layer | Preserves form as well as vocabulary.
+Added | Multiaxial scoring | Separates semantic, dramatic, prosodic, and other fidelities.
+Added | Back-translation test | Tests information retention.
+Added | Nuance-loss register | Documents unavoidable losses.
+Added | Slang half-life rating | Supports historical and rolling editions.
+Added | Iconic-line threshold | Prevents needless replacement of durable lines.
+Added | Dramatic-irony protection | Protects knowledge asymmetry.
+Added | Power/consent/coercion check | Prevents misleading softening of coercive stakes.
+Added | Performance test | Returns the protocol to Shakespeare's theatrical medium.
+Added | Beat mapping | Protects escalation and scene architecture.
+Added | M0-M5 intensity scale | Allocates modernization by dramatic function.
+Added | Pun reconstruction | Protects wordplay and double meanings.
+Added | Cultural-reference matrix | Standardizes retain/gloss/modernize decisions.
+Added | Lexical saturation control | Reduces accidental meme parody.
+Added | Formal Nuance Audit | Creates a repeatable scene-completion quality gate.
