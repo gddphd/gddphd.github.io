@@ -1,0 +1,162 @@
+At the PDF-first stage, the project explicitly distinguished the active canonical text from superseded draft history.
+
+| Historical metric at that stage | Count |
+|---|---:|
+| PDF-first active canonical slang occurrences | 49 |
+| PDF-first active canonical distinct terms | 41 |
+| Earlier superseded draft occurrences then on record | 31 |
+| Earlier superseded draft distinct expressions then on record | 31 |
+| Historical exercise occurrences if both active and superseded generations were counted together at that time | 80 |
+| Historical distinct expressions then reported across those generations | 71 |
+
+These historical-production figures are preserved for provenance only. They are not added to the current 175-occurrence canonical cross-work corpus because doing so would double-count rewritten passages.
+
+
+
+# Governance, Authorization, and Adverse-Event Record
+
+## Active Governance State
+
+The Midsummer branch proceeded under the user-approved Mode 45 configuration:
+
+| Component | Weight |
+|---|---:|
+| Mode 31 - Creative Direction | 30% |
+| Mode 10 - Evidence-and-Citation | 20% |
+| Mode 25 - Teaching / Curriculum | 15% |
+| Mode 42 - Constraint Carry-Forward | 15% |
+| Mode 39 - Governance-Audited | 10% |
+| Mode 5 - Full Explanation | 10% |
+| Total | 100% |
+
+Additional approved controls:
+- Conditional trust / corrective controls.
+- Low-assumption slang classification.
+- Source verification permitted.
+- Chat/document output permitted for this branch.
+- Branch restricted to Shakespeare modernization.
+- Translation, annotation, classification, counting, and cumulative corpus tracking authorized.
+- Full scene-end audit required.
+
+## AE-2026-08-31-01 - Preflight Omission
+
+Class: Governance / preflight omission.
+
+Description: Initial Midsummer translation content was generated before establishing the required visible trust, mode, evidence, assumption, tool, output, branch, and audit clearances.
+
+Impact: The early translation text remained usable as a draft, but its production pathway was not governance-compliant.
+
+Correction: Substantive execution was stopped, explicit gates and Mode 45 were presented, the user approved the proposed configuration, and later work proceeded under that authorization.
+
+Status: Corrective controls active; the event remains part of provenance.
+
+## AE-2026-08-31-02 - Count-Metric Conflation
+
+Class: Lexical accounting / governance audit.
+
+Description: A prior cumulative ledger mixed bold lexical interventions with strict slang-term occurrences, causing incompatible metrics to be presented as if they were the same quantity.
+
+Correction: The ledger now distinguishes bold interventions, conservative slang/slang-derived occurrences, and distinct normalized exact expressions.
+
+Status: Corrected in the present dossier.
+
+## AE-2026-08-31-03 - Distinct-Expression Normalization Error
+
+Class: Lexical accounting.
+
+Description: A prior tabulation reported 84 distinct Midsummer expressions and 115 project-wide expressions. A case-normalized audit of the actual canonical term lists found 83 distinct Midsummer expressions and 114 project-wide expressions.
+
+Cause: Inconsistent treatment of capitalization variants during union counting.
+
+Correction: Case is normalized for distinct-expression counting; hyphenation and inflection remain separate unless a term-family analysis is explicitly requested.
+
+Status: Corrected in the present dossier.
+
+## Preservation Rule
+
+Superseded drafts are retained in this document for revision provenance. They are not counted in the active canonical corpus unless a separate historical-production metric is requested. No prior substantive layer is silently erased.
+
+
+
+# Historical Completion-Audit Snapshots
+
+## After Initial Part II
+
+| Audit field | Recorded result |
+|---|---|
+| Mode | Mode 45: Creative Direction 30%; Evidence/Citation 20%; Teaching 15%; Constraint Carry-Forward 15%; Governance-Audited 10%; Full Explanation 10% |
+| Trust state | Conditional / corrective controls; not self-declared restored |
+| Branch | A Midsummer Night's Dream -> Act I -> Scene 1 |
+| Source | Folger Shakespeare text checked |
+| Observation | Original dialogue, scene order, speakers, legal ultimatum, Helena allegation |
+| Interpretation | Semantic equivalence between Shakespearean and contemporary expressions |
+| Creative transformation | 2026 dialogue |
+| Assumption control | No claim that a term was coined in 2026; "2026" denotes current usability/register |
+| Slang accounting | 21 new; 31 scene-to-date; 31 project-to-date at that stage |
+| Prior AE | AE-2026-08-31-01 open under corrective controls |
+| New adverse events | None identified in that installment |
+| Carry-forward | Bold slang; numbered annotations; scene frequency; cumulative frequency; meter review; character-specific register |
+
+## After PDF-First Rewrite
+
+The branch remained under the same Mode 45 authorization. The slang PDF was treated as the primary authority. The earlier non-PDF expressions were not silently erased but were moved into archival drafting history. The active corpus at that stage was 49 slang occurrences / 41 distinct terms across Act I, Scenes 1-2.
+
+
+
+# Source Register
+
+1. William Shakespeare, A Midsummer Night's Dream, Act I, Scenes 1-2. Folger Shakespeare Library text used as the dramatic/source baseline during revision.
+   Source URL: https://www.folger.edu/explore/shakespeares-works/a-midsummer-nights-dream/read/1/1/
+   Source URL: https://www.folger.edu/explore/shakespeares-works/a-midsummer-nights-dream/read/1/2/
+
+2. Dan Saltman, "Social Media Slang: Emoji and Acronym Meanings Teens are Using," Redact.dev. User-supplied 55-page PDF used as the primary slang-reference glossary. The supplied copy reports 864 results and explicitly warns that slang meanings evolve and depend on context.
+
+3. Shakespeare_2026_Slang_Annotated_Romeo_and_Juliet_II_ii.docx. Canonical methodological comparator for the Romeo protocol. The document states that it consolidates three successive metrically constrained passes and uses bold markup for slang, digital-era lexicon, and accommodation wording.
+
+4. Supplemental contemporary dictionaries used within the Romeo protocol for slang absent from the PDF include Merriam-Webster entries for mog, aura, opps, baddie, rizz, delulu, ghost, rebrand, meme, and the colloquial sense of clock/clocked; Dictionary.com was used for handle in the Romeo artifact. These supplemental sources are not substituted for the uploaded PDF as the primary lexicon.
+
+# GitHub-Ready Repository Notes
+
+Suggested repository: shakespeare-2026-slang
+
+Suggested path for this dossier:
+works/a-midsummer-nights-dream/act-1/
+
+Suggested filenames:
+- Midsummer_2026_Slang_Translation_Project_Complete_Dossier_v1.0.docx
+- Midsummer_2026_Slang_Translation_Project_Complete_Dossier_v1.0.txt
+
+Suggested accompanying repository metadata, if/when created separately:
+- README.md
+- LICENSE
+- CITATION.cff
+- CHANGELOG.md
+- PROVENANCE.md
+- AI_DISCLOSURE.md
+- SOURCE_REGISTER.csv
+- RELEASE_MANIFEST.json
+
+## Publication Status
+
+This dossier is prepared as a complete working record suitable for upload to a GitHub repository. It is not represented as a final scholarly edition. The canonical translation can continue to change as later scenes establish stronger lexical systems, metrical refinements, or better evidentiary support.
+
+## Version Lineage
+
+v0.x - exploratory Midsummer drafting before formal PDF-first control.
+v0.5 - PDF-first rewrite of Act I, Scenes 1-2.
+v0.8 - comparison against Romeo protocol; insufficiency of sparse substitutions documented.
+v1.0 - Romeo-protocol retranslation of Act I, Scenes 1-2; full revision provenance; audited count framework; cross-work Romeo integration.
+
+## Editorial Status Labels
+
+CURRENT CANONICAL:
+- A Midsummer Night's Dream, Act I, Scene 1 - Revision Layer E.
+- A Midsummer Night's Dream, Act I, Scene 2 - Revision Layer E.
+
+SUPERSEDED BUT PRESERVED:
+- Revision Layer A - initial opening.
+- Revision Layer B - initial Egeus/Hermia/Lysander/Demetrius section.
+- Revision Layer C - PDF-first full Scenes 1-2.
+
+METHODOLOGICAL CONTROL:
+- Revision Layer D - Romeo protocol comparison and minimum-standard adoption.
