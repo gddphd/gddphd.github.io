@@ -1,0 +1,45 @@
+SOURCE PDF: Gemini recommended additions to Romeo protocol after DRASP .pdf
+STATUS: Parsed-text archival copy of external review supplied by the project owner and attributed to Gemini.
+
+DRASP Trigger and Evidentiary Baseline
+Following the mandatory full escalation sequence of DRASP Policy A, synthesizing the
+structural limitations identified across blank verse, rhyming couplets, and philosophical prose
+requires an actionable methodological framework. To prevent future translational failures—such
+as metrical collapse, syntactic strain, or tonal deflation—the cumulative findings of the corpus
+must be codified into definitive rules.
+Actionable Translation Guidelines for the Romeo Protocol
+● Rule 1: Genre-Specific Lexical Gating (The Tonal Boundary)
+○ Directive: Restrict high-colloquialism and meme-centric slang strictly to comedies,
+transactional prose, and character-driven scenes (e.g., Midsummer's mechanicals).
+○ Rationale: As demonstrated by the King Lear storm scene, applying internet
+vernacular to high tragedy or philosophical prose introduces cynical detachment
+and catastrophic tonal deflation.
+● Rule 2: Mandatory Digital Accommodations in Tragedies
+○ Directive: Replace colloquial slang with conceptual, system-level digital
+accommodations (such as Lear's "hard reset" or Midsummer's "admin rights") when
+adapting high-stakes dramatic works.
+○ Rationale: System-level terminology preserves the severity, power structures, and
+cosmic gravity of tragedies without relying on lightweight internet humor.
+● Rule 3: Total Syntactic Rebuilding for Verse Integration
+○ Directive: Never force spondaic or polysyllabic slang (e.g., "speedrun," "hard block")
+into a rigid Elizabethan iambic footprint. The surrounding connective syntax must be
+entirely overhauled to accommodate the modern phonetic weight.
+○ Rationale: Direct word substitution creates awkward consonant clusters and
+metrical collapse; smooth integration requires restructuring the line's rhythmic flow
+around the slang's natural stress.
+● Rule 4: Systematic Abandonment of End-Rhyme
+○ Directive: Deliberately discard strict phonetic rhyme schemes when translating
+complex rhymed verse (such as prophecies or sonnets) into contemporary lexicons.
+○ Rationale: Enforcing an end-rhyme with inflexible modern idioms forces absurd
+syntactic inversions and infantilized phrasing; sacrificing the rhyme preserves the
+pragmatic and satirical accuracy of the text.
+● Rule 5: Prioritization of Transactional Prose
+○ Directive: Leverage prose sections as the primary vehicle for high-density slang
+integration.
+○ Rationale: Because prose lacks a fixed syllabic grid, its structural elasticity naturally
+absorbs conversational digital idioms without the friction experienced in verse.
+Synthesis Gate and Audit Conclusion
+The synthesis gate confirms that these guidelines resolve the systemic vulnerabilities identified
+during corpus evaluation. By enforcing genre bifurcation, syntactic rebuilding, and the strategic
+surrender of rhyme, future iterations of the Romeo Protocol can maintain both structural rigor
+and emotional fidelity.
