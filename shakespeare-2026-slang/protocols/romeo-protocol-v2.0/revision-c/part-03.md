@@ -1,3 +1,18 @@
+| Added | Lexical saturation control | Reduces accidental meme parody. |
+| Added | Formal Nuance Audit | Creates a repeatable scene-completion quality gate. |
+
+## 28. Draft Completion Statement
+
+This draft preserves the previously documented Romeo Protocol baseline and incorporates the full set of Nuance-Fidelity improvements proposed on 2026-08-31. No baseline requirement is intentionally deleted. Adoption remains subject to explicit user authorization.
+
+# Revision Addendum
+
+### Gemini-Informed Prosodic Reconstruction and Dramatic-Gravity Modules
+
+Romeo Protocol v2.0 - Revised Draft Candidate | Revision B | 2026-08-31
+
+## 29. External Review Attribution and Provenance
+
 This revision explicitly credits an external methodological review attributed by the user to Gemini. The review praised the protocol's lexical systematization and character-sensitive register design, while identifying two principal weaknesses: prosodic friction when contemporary slang is forced into blank-verse structures, and tonal deflation when meme-heavy language is applied to high tragedy.
 
 The Gemini review specifically recommended: (1) syntactic reconstruction around the natural phonetic stress of modern vocabulary rather than forcing rigid slang into inherited iambic footprints; and (2) heavier use of conceptually modern digital-era accommodations in tragic material where highly colloquial slang would reduce philosophical or emotional weight.
@@ -125,14 +140,3 @@ Gravity applies at the beat level, not only the scene level. A Fool, clown, serv
 | Catharsis preservation | Does the language preserve rather than deflate pity, fear, grief, or moral consequence? |
 | Comic-detachment risk | Does the term introduce unintended distance or meme recognition? (5 = no inappropriate detachment) |
 | Sublime / philosophical integrity | Does the line retain conceptual and emotional scale? |
-| Character-tonal fit | Does this speaker plausibly carry this register in this moment? |
-
-## 32. Integration of Modules A and B with Existing v2.0 Controls
-
-| Existing v2.0 control | Module A integration | Module B integration |
-| --- | --- | --- |
-| Nuance Fidelity Stack | Prosody now includes natural pronunciation, phonotactics, and actor performability. | Emotional state and rhetorical function now include explicit gravity classification. |
-| Character Idiolect Matrix | Profiles should record typical stress/rhythm behavior and tolerance for polysyllabic digital language. | Profiles should record normal lexical tiers and gravity-sensitive exceptions. |
-| Rhetorical-Figure Preservation | Syntax reconstruction must preserve rhetorical momentum even when line shape changes. | Rhetorical grandeur may override slang density in G4-G5 material. |
-| Multiaxial Equivalence Scoring | Add natural-pronunciation, beat-integration, and performability diagnostics. | Add gravity alignment, catharsis preservation, and tonal-deflation diagnostics. |
-| Performance Test | Becomes a formal prosodic gate rather than an end-stage convenience. | Performance review must identify unintended laughter or detachment. |
