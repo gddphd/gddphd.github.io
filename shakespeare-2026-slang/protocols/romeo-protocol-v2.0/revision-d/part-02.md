@@ -1,3 +1,4 @@
+
 ## 12. Nuance Loss Register
 
 Known losses are documented rather than hidden. Record at minimum:
