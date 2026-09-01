@@ -1,3 +1,10 @@
+Known losses are documented rather than hidden. Record at minimum:
+
+| Original feature | Modern treatment | Residual loss |
+| --- | --- | --- |
+| Mythological reference | Modern cultural analogue | Classical association may be reduced |
+| Sexual pun | Modern double entendre | Some lexical/anatomical ambiguity may be lost |
+| Feudal title distinction | Social-status vocabulary | Historical hierarchy may be compressed |
 | Theological implication | Retain / gloss / analogize | Document any doctrinal narrowing |
 | Legal-historical term | Modern legal metaphor | Technical historical nuance may be reduced |
 
@@ -223,18 +230,3 @@ Any v2.1 or later successor should be cumulative by default and preserve the com
 | Added | M0-M5 intensity scale | Allocates modernization by dramatic function. |
 | Added | Pun reconstruction | Protects wordplay and double meanings. |
 | Added | Cultural-reference matrix | Standardizes retain/gloss/modernize decisions. |
-| Added | Lexical saturation control | Reduces accidental meme parody. |
-| Added | Formal Nuance Audit | Creates a repeatable scene-completion quality gate. |
-
-## 28. Draft Completion Statement
-
-This draft preserves the previously documented Romeo Protocol baseline and incorporates the full set of Nuance-Fidelity improvements proposed on 2026-08-31. No baseline requirement is intentionally deleted. Adoption remains subject to explicit user authorization.
-
-# Revision Addendum
-
-### Gemini-Informed Prosodic Reconstruction and Dramatic-Gravity Modules
-
-Romeo Protocol v2.0 - Revised Draft Candidate | Revision B | 2026-08-31
-
-## 29. External Review Attribution and Provenance
-
