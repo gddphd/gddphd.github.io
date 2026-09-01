@@ -1,0 +1,287 @@
+Initial opening subtotal: 10 distinct expressions; 10 occurrences.
+
+
+
+# Revision Layer B - Initial Egeus / Hermia / Lysander / Demetrius Draft
+## Act I, Scene 1: Egeus's Complaint Through Theseus's Departure
+
+[Enter EGEUS with HERMIA, LYSANDER, and DEMETRIUS.]
+
+EGEUS
+
+Long life to Theseus, our famous duke!
+
+THESEUS
+
+Thanks, Egeus. What news do you bring me?
+
+EGEUS
+
+I come here **pressed**, with grievance in my chest
+Against my child, my daughter Hermia.
+
+Demetrius, step up. My noble lord,
+This man has my consent to marry her.
+
+Lysander, step up. And, gracious duke,
+This man has **got in her head** and changed her.
+
+You, Lysander-you've **love-bombed** her with rhymes
+And traded little love gifts with my child.
+
+At moonlight, underneath her window, you
+Have sung those **fake-deep** verses about love
+In some put-on, romantic lover's voice,
+
+And **got her hooked** upon your whole persona
+With hair-made bracelets, rings, bright little gifts,
+Trinkets and flowers, candy-all that stuff
+That **hits hard** on a young, unguarded heart.
+
+By **playing slick**, you stole my daughter's heart
+And turned the duty she should show to me
+Into this **straight-up defiance**.
+
+And, gracious duke, if she will not agree
+Right here, before your Grace, to marry him-
+Demetrius-I claim old Athens' law.
+
+Because she's mine, the law lets me decide:
+I give her either to this gentleman
+Or give her over to her death, as law
+Has already provided in this case.
+
+THESEUS
+
+What do you say, Hermia? Think carefully.
+
+Your father, in your world, should rank as god:
+He formed the beauty that you carry now.
+You're like the wax on which he stamped a form,
+And under law he claims the power to keep
+That figure as it is-or disfigure it.
+
+Demetrius is **a solid guy**.
+
+HERMIA
+
+So is Lysander.
+
+THESEUS
+
+Yes, considered on his own, he certainly is.
+But here your father will not **co-sign** him,
+And so the other must be ranked above.
+
+HERMIA
+
+I wish my father looked through my own eyes.
+
+THESEUS
+
+Your eyes must learn to look through his judgment.
+
+HERMIA
+
+Your Grace, I ask your pardon for my words.
+
+I don't know where I found the nerve to speak,
+Or whether speaking so before this court
+Might make me look immodest or too bold.
+
+But I ask only this: please tell me now
+The worst that can be done to me by law
+If I **hard-pass** on marrying Demetrius.
+
+THESEUS
+
+Either you die-or **swear off men** for life.
+
+So, Hermia, examine what you want.
+Remember you are young; **check yourself** well.
+Ask whether, if you reject your father's choice,
+You really can endure a life in **nun mode**:
+
+Shut in a shadowed cloister all your life,
+A childless sister, chanting weakened hymns
+Up toward the cold and unproductive moon.
+
+Three times blessed are those who master desire
+And choose to make that maiden pilgrimage.
+
+But earthly happiness, I tell you, favors
+The rose distilled and rendered into sweetness
+Above the rose that withers on its thorn
+And grows, and lives, and dies entirely single.
+
+HERMIA
+
+Then let me grow, and live, and die that way
+Before I **give him the keys** to any claim
+Upon my body or my future life
+When my own soul will grant him no such rule.
+
+THESEUS
+
+You have until the coming of the moon-
+The day that seals Hippolyta and me
+Together in our everlasting bond.
+
+And on that day, prepare yourself to die
+For disobeying what your father wills,
+
+Or marry with Demetrius as he asks,
+
+Or at Diana's altar **go full celibate**,
+Committed to austerity for life.
+
+DEMETRIUS
+
+Relent, sweet Hermia. Lysander, **take the L**.
+Give up your shaky title to my right.
+
+LYSANDER
+
+You have her father's love, Demetrius.
+Let me have Hermia's. You marry him.
+
+EGEUS
+
+Mock all you want, Lysander. Yes, it's true:
+Demetrius has my love, and what is mine
+My love will freely render unto him.
+
+And she is mine. Whatever rights I hold
+In Hermia I settle upon him.
+
+LYSANDER
+
+My lord, my family stands as high as his.
+My property is equal-maybe more.
+My love for her is greater than his love,
+
+And more important than those boasts combined:
+The beautiful Hermia loves me back.
+
+So why should I not press my rightful claim?
+
+And I can **bring receipts** on Demetrius:
+
+He courted Nedar's daughter, Helena.
+He won her heart-and that poor woman still
+Is **down bad** for him, utterly devoted,
+Still worshipping this **walking red flag** here,
+This inconsistent man who changes course.
+
+THESEUS
+
+I have to say, I have heard that before.
+
+I meant to speak with Demetrius about it,
+But wedding business crowded out my thought.
+
+Demetrius, come. And Egeus, come with me.
+You both require a private **reality check**.
+
+And Hermia, prepare yourself to make
+Your wishes fit the wishes of your father.
+
+If not, the law of Athens hands you over-
+And we're not authorized to soften it-
+Either to death or lifelong single vows.
+
+Come, Hippolyta. How are you, my love?
+
+Demetrius and Egeus, come along.
+I need you both concerning wedding business
+And other matters touching you directly.
+
+EGEUS
+
+With duty and desire, we follow you.
+
+[THESEUS, HIPPOLYTA, EGEUS, and DEMETRIUS exit. HERMIA and LYSANDER remain.]
+
+## Annotation Register - Revision Layer B
+
+| ID | 2026 expression | Shakespearean basis | Classification | Translation rationale |
+|---|---|---|---|---|
+| SL-011 | **pressed** | "Full of vexation" | Strong contemporary slang | Conspicuously irritated, bothered, or emotionally worked up; preserves Egeus's agitated entrance. |
+| SL-012 | **got in her head** | "bewitched the bosom of my child" | Contemporary idiom | Represents Egeus's accusation that Lysander improperly altered Hermia's thinking; not an objective finding. |
+| SL-013 | **love-bombed** | rhymes, tokens, serenades, gifts | Contemporary relationship terminology | Conveys overwhelming someone with romantic attention and gifts; intentionally voiced as Egeus's accusation. |
+| SL-014 | **fake-deep** | "verses of feigning love" | Contemporary slang construction | Preserves Egeus's contemptuous claim that Lysander's poetry is performative rather than sincere. |
+| SL-015 | **got her hooked** | "stol'n the impression of her fantasy" | Contemporary informal idiom | Preserves the accusation that Lysander's performance captured Hermia's imagination. |
+| SL-016 | **hits hard** | "messengers / Of strong prevailment" | Contemporary slang / vernacular | Something that has unusually powerful emotional impact. |
+| SL-017 | **playing slick** | "With cunning" | Informal/slang idiom | Clever, calculated maneuvering with an implication of dishonesty. |
+| SL-018 | **straight-up defiance** | "stubborn harshness" | Slang intensifier + modernization | "Straight-up" intensifies Egeus's complaint of outright disobedience. |
+| SL-019 | **a solid guy** | "a worthy gentleman" | Contemporary informal praise | "Solid" designates someone considered dependable or respectable. |
+| SL-020 | **co-sign** | "wanting your father's voice" | Contemporary slang/metaphorical extension | From jointly signing an obligation to endorse or approve; maps well onto paternal approval. |
+| SL-021 | **hard-pass** | refusal "to wed Demetrius" | Strong contemporary slang | An emphatic refusal. |
+| SL-022 | **swear off men** | "abjure / Forever the society of men" | Contemporary colloquial idiom | Deliberately renounce future involvement. |
+| SL-023 | **check yourself** | "question your desires ... examine well your blood" | Established slang/idiom | Critical self-examination. |
+| SL-024 | **nun mode** | "livery of a nun" | Productive contemporary construction | "X mode" indicates entering a defined behavioral state. |
+| SL-025 | **give him the keys** | yielding her "virgin patent" / sovereignty | Contemporary figurative idiom | Keys signify control/access; Hermia refuses to transfer control. |
+| SL-026 | **go full celibate** | perpetual austerity and single life | Contemporary intensifier construction | "Go full X" means adopt X completely. |
+| SL-027 | **take the L** | "yield" | Strong slang | "L" = loss; accept defeat. |
+| SL-028 | **bring receipts** | "I'll avouch it to his head" | Internet/evidence slang | "Receipts" means evidence supporting an allegation. |
+| SL-029 | **down bad** | Helena "dotes ... dotes in idolatry" | Strong contemporary slang | Intense, sometimes embarrassing, infatuation. |
+| SL-030 | **walking red flag** | "spotted and inconstant man" | Contemporary relationship slang | A person whose behavior signals serious warning signs. |
+| SL-031 | **reality check** | Theseus's "private schooling" | Contemporary idiom | Preserves the disciplinary/admonitory function. |
+
+## Running Ledger at End of Initial Part II
+
+| Metric | Count |
+|---|---:|
+| New expressions in Part II | 21 |
+| New occurrences in Part II | 21 |
+| Act I, Scene 1 running distinct expressions | 31 |
+| Act I, Scene 1 running occurrences | 31 |
+| Entire project cumulative distinct expressions at that point | 31 |
+| Entire project cumulative occurrences at that point | 31 |
+
+At this stage every registered expression had occurred once. The project then adopted a stronger evidentiary rule: the uploaded slang PDF would become the primary slang-reference authority, and later the Romeo protocol became the minimum editorial floor.
+
+
+
+# Revision Layer C - PDF-First Canonical Rewrite (Later Superseded)
+## Methodological Change
+
+The uploaded PDF "Social Media Slang: Emoji and Acronym Meanings Teens are Using" became the primary slang-reference authority. The project adopted a reference-status distinction:
+
+| Reference status | Meaning |
+|---|---|
+| PDF-attested | Exact term/phrase appears in the uploaded glossary. |
+| PDF-attested variant | A closely related construction appears, but the adaptation wording differs. |
+| Supplemental contemporary usage | Not established from the PDF; separately supported where needed. |
+| Creative adaptation | Constructed for the Shakespeare translation rather than asserted as an independently attested slang expression. |
+
+The PDF itself describes slang as rapidly evolving and context-dependent, and reports 864 glossary entries across emoji, acronym, and phrase categories. The project therefore stopped treating general modern English as slang and began differentiating evidentiary status.
+
+## Act I, Scene 1 - PDF-First Rewrite
+
+[Enter THESEUS, HIPPOLYTA, PHILOSTRATE, and attendants.]
+
+THESEUS
+
+Hippolyta, four days until we're wed,
+but this old moon is **lagging IRL** for me.
+She keeps me waiting on the thing I want,
+like some rich dowager who won't let go
+while younger heirs keep waiting on the cash.
+
+HIPPOLYTA
+
+Four days will fold themselves into four nights;
+four nights will dream themselves away soon enough.
+Then that new moon, bent like a silver bow,
+will watch the night we make our marriage public.
+
+THESEUS
+
+Philostrate, go tell the youth of Athens:
+**We outside**. Wake every joyful spirit.
+Send melancholy where the funerals are;
+this wedding celebration **slaps hard**.
+
+Hippolyta, I courted you through war
+and won you while I did you injury.
