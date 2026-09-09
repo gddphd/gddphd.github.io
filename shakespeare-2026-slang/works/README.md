@@ -11,6 +11,7 @@ This directory organizes the individual Shakespeare-to-2026-slang adaptations go
 | [*Othello*](othello/) | Act III, Scene III selected passage | Full TXT working edition and work/scene indexes present | Evidence/verification, manipulation, dramatic-irony, and fixed-idiom test case. |
 | [*King Lear*](king-lear/) | Act III, Scene II | Full TXT working edition and work/scene indexes present | Tragic gravity, prosodic friction, rhyme, satire, and retro-audit test case. |
 | [*The Tempest*](the-tempest/) | Act III, Scene II | Full TXT working edition and work/scene indexes present | Comic/prose versus lyrical-register and coercion-fidelity test case. |
+| [*Macbeth*](macbeth/) | Act I, Scene vii | Working Draft v0.2 staged as a GitHub-readable M4 high-density candidate; not yet canonical | Tragic blank-verse stress test for dense GENEX / Alpha slang, coercion fidelity, evidence systems, and prosodic reconstruction. |
 
 ## Current working corpus checkpoint
 
@@ -23,9 +24,9 @@ Before future Romeo Protocol v2.0 retro-audits:
 | *Othello* III.iii selected passage | 30 | 25 |
 | *King Lear* III.ii | 38 | 35 |
 | *The Tempest* III.ii | 49 | 36 |
-| **Project-wide** | **292** | **156 normalized unique expressions** |
+| **Project-wide canonical checkpoint** | **292** | **156 normalized unique expressions** |
 
-Scene-distinct values are not additive because vocabulary recurs across works.
+Scene-distinct values are not additive because vocabulary recurs across works. The new *Macbeth* v0.2 file is a working candidate and is intentionally excluded from this canonical checkpoint until its lexical and prosodic audit is closed.
 
 ## Per-work organization
 
@@ -43,8 +44,8 @@ Each work directory identifies:
 
 ## Version preservation
 
-A later edition does not erase an earlier one. Historical versions remain available under scene archives or revision records. *A Midsummer Night's Dream* is particularly important because its dossier contains multiple preserved drafting layers rather than only its final canonical layer.
+A later edition does not erase an earlier one. Historical versions remain available under scene archives or revision records. *A Midsummer Night's Dream* is particularly important because its dossier contains multiple preserved drafting layers rather than only its final canonical layer. *Macbeth* likewise begins with an explicitly versioned draft sequence: the restrained v0.1 pass is superseded as the current candidate but remains part of the revision provenance, while v0.2 is the active working draft.
 
 ## v2.0 retro-audit status
 
-The current work artifacts remain historical v1-era products. Romeo Protocol v2.0 Revision D is still a draft candidate; it has not been silently applied retroactively to rewrite these files. Any v2.0-based retranslation must be committed as a successor artifact with an explicit comparison and updated corpus checkpoint.
+The historical work artifacts remain v1-era products. Romeo Protocol v2.0 Revision D is still a draft candidate; it has not been silently applied retroactively to rewrite those files. The *Macbeth* v0.2 candidate uses Revision D controls prospectively as an experimental audit framework, but this does not constitute adoption of Revision D as the controlling protocol. Any later retranslation or promotion to v1.0 must be committed as a successor artifact with an explicit comparison and updated corpus checkpoint.
